@@ -74,3 +74,130 @@ Simula 67 は一般に「最初のオブジェクト指向言語」とされて�
   https://softwarepreservation.computerhistory.org/ALGOL/history.html
 - Computer History Museum, *Introducing the Smalltalk Zoo*  
   https://computerhistory.org/blog/introducing-the-smalltalk-zoo-48-years-of-smalltalk-history-at-chm/
+
+
+---
+
+## #002 Pythonはインタプリタ言語……だけじゃないんだぜ
+
+Pythonって「インタプリタ言語」だって習うことが多いんだぜ。
+
+たしかに、普段の使い方を見るとそう見えるんだぜ。
+
+```bash
+python hello.py
+```
+
+コンパイル用のコマンドを叩かなくても、そのまま実行できるんだぜ。
+
+でも、少なくとも一番よく使われている実装の **CPython** は、Pythonのソースコードをそのまま1行ずつ読んで実行しているわけじゃないんだぜ。
+
+### 実は一回コンパイルしてるんだぜ
+
+CPythonはPythonのソースコードを、まず **バイトコード** にコンパイルするんだぜ。
+
+そして、そのバイトコードをCPythonのインタプリタが実行するんだぜ。
+
+ざっくり書くと、
+
+```text
+Pythonのソースコード
+        ↓
+     コンパイル
+        ↓
+   CPythonのバイトコード
+        ↓
+     インタプリタ
+        ↓
+       実行
+```
+
+なんだぜ。
+
+だから、
+
+> **Pythonはインタプリタで実行されるんだぜ**
+
+は間違いじゃないんだぜ。
+
+でも、
+
+> **Pythonはコンパイルされないんだぜ**
+
+は違うんだぜ。
+
+### バイトコードは自分でも見られるんだぜ
+
+Pythonには `dis` という標準モジュールがあるんだぜ。
+
+例えば、
+
+```python
+def add(a, b):
+    return a + b
+```
+
+を逆アセンブルすると、CPythonが実際に扱うバイトコード命令を見ることができるんだぜ。
+
+```python
+import dis
+
+dis.dis(add)
+```
+
+つまり「裏ではコンパイルしてるんだぜ」は比喩じゃなくて、本当に確認できるんだぜ。
+
+### しかも「Python＝インタプリタ方式」でもないんだぜ
+
+ここがさらに面白いところなんだぜ。
+
+**Pythonは言語で、CPythonはその実装のひとつ**なんだぜ。
+
+Pythonという言語そのものが、
+
+「必ずこの方法で実行しろ」
+
+と決めているわけじゃないんだぜ。
+
+例えば **PyPy** にはJITコンパイラがあって、実行中にコードをマシンコードへコンパイルして高速化するんだぜ。
+
+だから、
+
+**コンパイル言語か、インタプリタ言語か**
+
+という二択は、思っているほど綺麗に分かれないんだぜ。
+
+むしろ、
+
+**その言語を、どんな処理系が、どう実行しているか**
+
+の話なんだぜ。
+
+### つまりなんだぜ
+
+Pythonを最初に習うときは、
+
+> Pythonはインタプリタ言語なんだぜ
+
+で十分なんだぜ。
+
+でも一段奥に行くと、
+
+> **CPythonはソースコードをバイトコードへコンパイルして、そのバイトコードをインタプリタで実行してるんだぜ。**
+
+になるんだぜ。
+
+さらに一段奥に行くと、
+
+> **そもそも「コンパイル言語」と「インタプリタ言語」は、言語そのものを完全に二分する分類じゃないんだぜ。**
+
+になるんだぜ。
+
+教科書の分類を一枚めくると、急に世界が曖昧になるんだぜ。
+
+### Sources
+
+- Python documentation, `dis — Disassembler for Python bytecode`  
+  https://docs.python.org/3/library/dis.html
+- PyPy, `Features`  
+  https://pypy.org/features.html
