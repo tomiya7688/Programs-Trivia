@@ -508,6 +508,87 @@ AIは **Artificial Intelligence** なんだぜ。
 
 そして、そこがもう難問なんだぜ。
 
+### しかも「AIらしさ」はブームごとに変わってきたんだぜ
+
+AIの歴史を見ると、この曖昧さがもっと分かりやすいんだぜ。
+
+1956年のダートマス会議で **Artificial Intelligence** という名前が研究分野として打ち出されたんだぜ。
+
+ここから始まる第1次AIブームでは、主役は **探索と推論** だったんだぜ。
+
+```text
+迷路を解くんだぜ
+定理を証明するんだぜ
+チェスを指すんだぜ
+```
+
+みたいなことが、
+
+> **機械が考えてるんだぜ**
+
+と感じられた時代なんだぜ。
+
+今見ると、探索アルゴリズムやルールベースのプログラムに見えるものでも、当時はAI研究のど真ん中だったんだぜ。
+
+でも現実世界は探索する組み合わせが多すぎて、簡単な問題では強くても複雑な現実問題にはなかなか勝てなかったんだぜ。
+
+そして期待がしぼんで、いわゆる **冬の時代** に入るんだぜ。
+
+### 第2次AIブームでは「知識を持ってるやつ」がAIだったんだぜ
+
+1980年代に来た第2次AIブームでは、主役が **エキスパートシステム** になったんだぜ。
+
+専門家が持っている知識を大量のルールとしてコンピュータに入れて、
+
+```text
+もしAでBならCなんだぜ
+もし症状XとYなら病気Zを疑うんだぜ
+```
+
+みたいに推論させるんだぜ。
+
+つまりこの時代のAIは、
+
+> **ものをたくさん知っていて、専門家みたいに判断する機械なんだぜ**
+
+というイメージだったんだぜ。
+
+ところが、人間の知識を全部ルールとして書き出して保守するのは大変すぎたんだぜ。
+
+知識を増やせば増やすほど管理も重くなって、また期待がしぼんでいったんだぜ。
+
+### 第3次AIブームでは「自分で学ぶやつ」がAIになったんだぜ
+
+2000年代以降、特に2010年代になると、主役は **機械学習とディープラーニング** になったんだぜ。
+
+今度は人間がルールを全部書くんじゃなくて、
+
+```text
+データを渡すんだぜ
+        ↓
+パターンを学ばせるんだぜ
+        ↓
+予測や分類をさせるんだぜ
+```
+
+という方向になったんだぜ。
+
+経産省の資料でも、
+
+```text
+第1次AIブーム → 探索・推論
+第2次AIブーム → 知識
+第3次AIブーム → 機械学習・ディープラーニング
+```
+
+という整理がされているんだぜ。
+
+つまり面白いことに、
+
+> **その時代に「機械がこんなことまで出来るのか」と驚かれる能力が、AIの顔になってきたんだぜ。**
+
+なんだぜ。
+
 ### 昔AIだったものが、普通の機能になることもあるんだぜ
 
 さらに面白いのが **AI effect** なんだぜ。
@@ -570,6 +651,10 @@ AIは **Artificial Intelligence** なんだぜ。
 
 - OECD, *Artificial Intelligence in Society — What is AI?*  
   https://www.oecd.org/en/publications/artificial-intelligence-in-society_eedfee77-en/full-report/component-6.html
+- Dartmouth, *Our Story — Where AI was Born*  
+  https://ai.dartmouth.edu/our-story
+- 経済産業省, *人工知能をめぐる動向*  
+  https://www.meti.go.jp/shingikai/sankoshin/shinsangyo_kozo/pdf/002_05_00.pdf
 - NIST Computer Security Resource Center, *Artificial Intelligence — Glossary*  
   https://csrc.nist.gov/glossary/term/artificial_intelligence
 - OECD, *Hello, World: Artificial Intelligence and its Use in the Public Sector* — AI effect  
