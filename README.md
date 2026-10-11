@@ -27,6 +27,7 @@
 - [#019 AIが人間を超えたってな、何を比べたか次第なんだぜ](trivia/019-ai-vs-humans-depends-on-the-task.md)
 - [#020 AIソフトってな、重みファイルだけじゃないんだぜ](trivia/020-ai-software-is-more-than-model-weights.md)
 - [#021 自然言語を構造化して、機械にも読ませようとした人がいたんだぜ](trivia/021-controlled-natural-language.md)
+- [#022 Pythonはスクリプト言語だから一般配布できない、なんてことはないんだぜ](trivia/022-python-apps-can-be-distributed.md)
 
 ---
 
