@@ -20,6 +20,7 @@
 - [#012 プログラミング言語ってな、それぞれスローガンに性格が出てるんだぜ](trivia/012-programming-language-slogans.md)
 - [#013 同じことを書くにも、速さは全然違うんだぜ](trivia/013-faster-is-not-always-better.md)
 - [#014 Pythonを作った人は、もうPythonの王様じゃないんだぜ](trivia/014-python-creator-is-no-longer-bdfl.md)
+- [#015 プログラミング言語が流行るかどうかは、いい言語かどうかだけじゃないんだぜ](trivia/015-popular-languages-are-not-just-good-languages.md)
 
 ---
 
