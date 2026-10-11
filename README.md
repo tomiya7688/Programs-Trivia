@@ -29,6 +29,7 @@
 - [#021 自然言語を構造化して、機械にも読ませようとした人がいたんだぜ](trivia/021-controlled-natural-language.md)
 - [#022 Pythonはスクリプト言語だから一般配布できない、なんてことはないんだぜ](trivia/022-python-apps-can-be-distributed.md)
 - [#023 暗号化ってな、仕組みそのものは意外と単純なんだぜ](trivia/023-cryptography-is-built-from-simple-operations.md)
+- [#024 コードカバレッジ100%ってな、安心どころか危険なこともあるんだぜ](trivia/024-100-percent-code-coverage-can-mislead.md)
 
 ---
 
