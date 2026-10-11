@@ -25,6 +25,7 @@
 - [#017 昔の高速化テクニックってな、今はコンパイラに任せた方がいいことが多いんだぜ](trivia/017-old-hand-optimizations-are-often-compiler-work.md)
 - [#018 実はブラウザってな、JavaScript以外も動かせるんだぜ](trivia/018-browsers-can-run-more-than-javascript.md)
 - [#019 AIが人間を超えたってな、何を比べたか次第なんだぜ](trivia/019-ai-vs-humans-depends-on-the-task.md)
+- [#020 AIソフトってな、重みファイルだけじゃないんだぜ](trivia/020-ai-software-is-more-than-model-weights.md)
 
 ---
 
