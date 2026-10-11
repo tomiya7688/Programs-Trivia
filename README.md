@@ -31,6 +31,7 @@
 - [#023 暗号化ってな、仕組みそのものは意外と単純なんだぜ](trivia/023-cryptography-is-built-from-simple-operations.md)
 - [#024 コードカバレッジ100%ってな、安心どころか危険なこともあるんだぜ](trivia/024-100-percent-code-coverage-can-mislead.md)
 - [#025 コードレビューってな、一人で全部を見る必要はないんだぜ](trivia/025-code-review-does-not-mean-one-person-reviews-everything.md)
+- [#026 意外と何にでもコンピュータは入ってて、その中身は意外と単純なんだぜ](trivia/026-computers-are-everywhere-and-often-simple.md)
 
 ---
 
