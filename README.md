@@ -34,6 +34,7 @@
 - [#026 意外と何にでもコンピュータは入ってて、その中身は意外と単純なんだぜ](trivia/026-computers-are-everywhere-and-often-simple.md)
 - [#027 0と1ってな、突き詰めるとスイッチなんだぜ](trivia/027-binary-is-ultimately-two-physical-states.md)
 - [#028 モニターに映すってな、メインコンピュータから見ると案外単純なんだぜ](trivia/028-displaying-a-frame-is-surprisingly-simple.md)
+- [#029 RISC-VだけがオープンなCPUアーキテクチャじゃないんだぜ](trivia/029-risc-v-is-not-the-only-open-cpu-architecture.md)
 
 ---
 
