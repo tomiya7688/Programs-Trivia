@@ -26,6 +26,7 @@
 - [#018 実はブラウザってな、JavaScript以外も動かせるんだぜ](trivia/018-browsers-can-run-more-than-javascript.md)
 - [#019 AIが人間を超えたってな、何を比べたか次第なんだぜ](trivia/019-ai-vs-humans-depends-on-the-task.md)
 - [#020 AIソフトってな、重みファイルだけじゃないんだぜ](trivia/020-ai-software-is-more-than-model-weights.md)
+- [#021 自然言語を構造化して、機械にも読ませようとした人がいたんだぜ](trivia/021-controlled-natural-language.md)
 
 ---
 
