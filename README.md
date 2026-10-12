@@ -35,6 +35,7 @@
 - [#027 0と1ってな、突き詰めるとスイッチなんだぜ](trivia/027-binary-is-ultimately-two-physical-states.md)
 - [#028 モニターに映すってな、メインコンピュータから見ると案外単純なんだぜ](trivia/028-displaying-a-frame-is-surprisingly-simple.md)
 - [#029 RISC-VだけがオープンなCPUアーキテクチャじゃないんだぜ](trivia/029-risc-v-is-not-the-only-open-cpu-architecture.md)
+- [#030 リレー式コンピュータだって、ちゃんとプログラミングできるんだぜ](trivia/030-relay-computers-were-programmable.md)
 
 ---
 
