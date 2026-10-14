@@ -4,6 +4,19 @@
 
 コードそのものを書くというより、言語の仕様、歴史、変な挙動、よくある誤解なんかを「実はこうなんだぜ」のノリで眺めていくんだぜ。
 
+## News
+
+トリビアだけじゃなく、技術の新しい発表やGitHubの注目リポジトリ、Tomiya製プロジェクトのニュースも書いていくんだぜ！
+
+- [ニュース一覧と編集方針](news/README.md)
+- [Python 3.15.0が正式リリースされたんだぜ！](news/tech/2026-10-09-python-3.15.0.md)
+- [Rust 1.99.0でCとの境界がまた扱いやすくなったんだぜ！](news/tech/2026-10-01-rust-1.99.0.md)
+- [AIエージェントにCADを扱わせるtext-to-cadが面白いんだぜ！](news/github-trending/2026-10-15-text-to-cad.md)
+- [PS5実行ファイルの移植を目指すAnyPS5が話題なんだぜ！](news/github-trending/2026-10-15-anyps5.md)
+- [おばけの住処 GPT、Ver1.0.0が公開されたんだぜ！](news/tomiya/2026-09-20-chatgpt-obakenosumika-v1.0.0.md)
+
+---
+
 ## Trivia
 
 - [#001 クラスはオブジェクト指向より前なんだぜ](trivia/001-class-before-oop.md)
