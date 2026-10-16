@@ -9,6 +9,7 @@
 トリビアだけじゃなく、技術の新しい発表やGitHubの注目リポジトリ、Tomiya製プロジェクトのニュースも書いていくんだぜ！
 
 - [ニュース一覧と編集方針](news/README.md)
+- [Rustで画像編集に挑むPhotoCraftが面白いんだぜ！](news/github-trending/2026-10-16-photocraft.md)
 - [AIにアプリの仕組みを調べさせるREAが話題なんだぜ！](news/github-trending/2026-10-16-rea.md)
 - [LinuxやWindowsからiOSアプリを作るxtoolが面白いんだぜ！](news/github-trending/2026-10-16-xtool.md)
 - [Python 3.15.0が正式リリースされたんだぜ！](news/tech/2026-10-09-python-3.15.0.md)

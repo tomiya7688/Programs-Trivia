@@ -15,6 +15,7 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 
 ### GitHub Trending — 注目のリポジトリなんだぜ
 
+- [Rustで画像編集に挑むPhotoCraftが面白いんだぜ！](github-trending/2026-10-16-photocraft.md) — 2026-10-16
 - [AIにアプリの仕組みを調べさせるREAが話題なんだぜ！](github-trending/2026-10-16-rea.md) — 2026-10-16
 - [LinuxやWindowsからiOSアプリを作るxtoolが面白いんだぜ！](github-trending/2026-10-16-xtool.md) — 2026-10-16
 - [AIエージェントにCADを扱わせるtext-to-cadが面白いんだぜ！](github-trending/2026-10-15-text-to-cad.md) — 2026-10-15
