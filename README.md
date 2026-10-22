@@ -37,6 +37,7 @@
 - [#029 RISC-VだけがオープンなCPUアーキテクチャじゃないんだぜ](trivia/029-risc-v-is-not-the-only-open-cpu-architecture.md)
 - [#030 リレー式コンピュータだって、ちゃんとプログラミングできるんだぜ](trivia/030-relay-computers-were-programmable.md)
 - [#031 コンピュータってな、電子回路がなくても作れるんだぜ](trivia/031-computers-can-be-mechanical.md)
+- [#032 過去の脆弱性ニュースってな、並べるとコンピュータの歴史が見えるんだぜ](trivia/032-historic-security-vulnerability-news.md)
 
 ---
 
