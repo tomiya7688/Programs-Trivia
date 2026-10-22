@@ -11,6 +11,8 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 ### Tech News — 技術のリリース・発表なんだぜ
 
 - [PHPの根幹に重大脆弱性、世界中で緊急アップデートなんだぜ！](tech/2026-10-21-php-critical-security-release.md) — 2026-10-21
+- [GitHub Actionsにlockfileが来たんだぜ！](tech/2026-10-14-github-actions-lockfiles.md) — 2026-10-14
+- [GitHub CopilotのHydraFusionにMaxが来たんだぜ！](tech/2026-10-14-hydrafusion-max.md) — 2026-10-14
 - [Python 3.15.0が正式リリースされたんだぜ！](tech/2026-10-09-python-3.15.0.md) — 2026-10-09
 - [Rust 1.99.0でCとの境界がまた扱いやすくなったんだぜ！](tech/2026-10-01-rust-1.99.0.md) — 2026-10-01
 
