@@ -22,6 +22,7 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 
 ### Tech News — 技術のリリース・発表なんだぜ
 
+- [HTTP2Shell、圧縮データを戻す処理に穴があったんだぜ！](tech/2026-10-25-http2shell-brotli-security.md) — 2026-10-25
 - [PHPの根幹に重大脆弱性、世界中で緊急アップデートなんだぜ！](tech/2026-10-21-php-critical-security-release.md) — 2026-10-21
 - [Python 3.15.0が正式リリースされたんだぜ！](tech/2026-10-09-python-3.15.0.md) — 2026-10-09
 - [Rust 1.99.0でCとの境界がまた扱いやすくなったんだぜ！](tech/2026-10-01-rust-1.99.0.md) — 2026-10-01

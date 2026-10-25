@@ -9,6 +9,7 @@
 トリビアだけじゃなく、技術の新しい発表やGitHubの注目リポジトリ、Tomiya製プロジェクトのニュースも書いていくんだぜ！
 
 - [ニュース一覧と編集方針](news/README.md)
+- [HTTP2Shell、圧縮データを戻す処理に穴があったんだぜ！](news/tech/2026-10-25-http2shell-brotli-security.md)
 - [PHPの根幹に重大脆弱性、世界中で緊急アップデートなんだぜ！](news/tech/2026-10-21-php-critical-security-release.md)
 - [TelegramのiOSアプリって、中身もビルド手順も読めるんだぜ！](news/github-trending/2026-10-22-telegram-ios.md)
 - [コードのつながりを地図にするGraphifyが話題なんだぜ！](news/github-trending/2026-10-22-graphify.md)
