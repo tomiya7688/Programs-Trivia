@@ -4,6 +4,34 @@
 
 コードそのものを書くというより、言語の仕様、歴史、変な挙動、よくある誤解なんかを「実はこうなんだぜ」のノリで眺めていくんだぜ。
 
+## News
+
+トリビアだけじゃなく、技術の新しい発表やGitHubの注目リポジトリ、Tomiya製プロジェクトのニュースも書いていくんだぜ！
+
+- [ニュース一覧と編集方針](news/README.md)
+- [Node.js 26がLTS入り、名前はLithiumなんだぜ！](news/tech/2026-10-28-nodejs-26-lts-lithium.md)
+- [GitHub Copilot Fusionが正式版、AIをAIが選ぶ時代なんだぜ！](news/tech/2026-10-28-copilot-fusion-ga.md)
+- [GitHubの2026年統計、PRの4割超をAIが書き始めるんだぜ！？](news/tech/2026-10-28-octoverse-2026-agents.md)
+- [CloudflareのAIセキュリティ監査、見つけた脆弱性を疑うんだぜ！](news/github-trending/2026-10-28-cloudflare-security-audit-skill.md)
+- [HTMLを書いたら動画になるHyperFramesが注目なんだぜ！](news/github-trending/2026-10-28-heygen-hyperframes.md)
+- [GitHub ActionsでAIエージェントを動かす仕組みが正式提供になったんだぜ！](news/tech/2026-10-28-github-agentic-workflows-ga.md)
+- [AI Scanがリポジトリ全体を調べるんだぜ！でも料金には注意だぜ](news/tech/2026-10-28-ai-scan-repository-public-preview.md)
+- [JetBrainsのThinkRail、AIの作業をworktreeで分けるIDEが注目なんだぜ！](news/github-trending/2026-10-28-jetbrains-thinkrail.md)
+- [HTTP2Shell、圧縮データを戻す処理に穴があったんだぜ！](news/tech/2026-10-25-http2shell-brotli-security.md)
+- [PHPの根幹に重大脆弱性、世界中で緊急アップデートなんだぜ！](news/tech/2026-10-21-php-critical-security-release.md)
+- [TelegramのiOSアプリって、中身もビルド手順も読めるんだぜ！](news/github-trending/2026-10-22-telegram-ios.md)
+- [コードのつながりを地図にするGraphifyが話題なんだぜ！](news/github-trending/2026-10-22-graphify.md)
+- [Rustで画像編集に挑むPhotoCraftが面白いんだぜ！](news/github-trending/2026-10-16-photocraft.md)
+- [AIにアプリの仕組みを調べさせるREAが話題なんだぜ！](news/github-trending/2026-10-16-rea.md)
+- [LinuxやWindowsからiOSアプリを作るxtoolが面白いんだぜ！](news/github-trending/2026-10-16-xtool.md)
+- [Python 3.15.0が正式リリースされたんだぜ！](news/tech/2026-10-09-python-3.15.0.md)
+- [Rust 1.99.0でCとの境界がまた扱いやすくなったんだぜ！](news/tech/2026-10-01-rust-1.99.0.md)
+- [AIエージェントにCADを扱わせるtext-to-cadが面白いんだぜ！](news/github-trending/2026-10-15-text-to-cad.md)
+- [PS5実行ファイルの移植を目指すAnyPS5が話題なんだぜ！](news/github-trending/2026-10-15-anyps5.md)
+- [おばけの住処 GPT、Ver1.0.0が公開されたんだぜ！](news/tomiya/2026-09-20-chatgpt-obakenosumika-v1.0.0.md)
+
+---
+
 ## Trivia
 
 - [#001 クラスはオブジェクト指向より前なんだぜ](trivia/001-class-before-oop.md)
