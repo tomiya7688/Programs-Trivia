@@ -9,6 +9,14 @@
 トリビアだけじゃなく、技術の新しい発表やGitHubの注目リポジトリ、Tomiya製プロジェクトのニュースも書いていくんだぜ！
 
 - [ニュース一覧と編集方針](news/README.md)
+- [Node.js 26がLTS入り、名前はLithiumなんだぜ！](news/tech/2026-10-28-nodejs-26-lts-lithium.md)
+- [GitHub Copilot Fusionが正式版、AIをAIが選ぶ時代なんだぜ！](news/tech/2026-10-28-copilot-fusion-ga.md)
+- [GitHubの2026年統計、PRの4割超をAIが書き始めるんだぜ！？](news/tech/2026-10-28-octoverse-2026-agents.md)
+- [CloudflareのAIセキュリティ監査、見つけた脆弱性を疑うんだぜ！](news/github-trending/2026-10-28-cloudflare-security-audit-skill.md)
+- [HTMLを書いたら動画になるHyperFramesが注目なんだぜ！](news/github-trending/2026-10-28-heygen-hyperframes.md)
+- [GitHub ActionsでAIエージェントを動かす仕組みが正式提供になったんだぜ！](news/tech/2026-10-28-github-agentic-workflows-ga.md)
+- [AI Scanがリポジトリ全体を調べるんだぜ！でも料金には注意だぜ](news/tech/2026-10-28-ai-scan-repository-public-preview.md)
+- [JetBrainsのThinkRail、AIの作業をworktreeで分けるIDEが注目なんだぜ！](news/github-trending/2026-10-28-jetbrains-thinkrail.md)
 - [HTTP2Shell、圧縮データを戻す処理に穴があったんだぜ！](news/tech/2026-10-25-http2shell-brotli-security.md)
 - [PHPの根幹に重大脆弱性、世界中で緊急アップデートなんだぜ！](news/tech/2026-10-21-php-critical-security-release.md)
 - [TelegramのiOSアプリって、中身もビルド手順も読めるんだぜ！](news/github-trending/2026-10-22-telegram-ios.md)
