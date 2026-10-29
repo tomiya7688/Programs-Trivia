@@ -56,4 +56,4 @@ GitHubはベンチマークで性能・時間・費用の改善例を示して�
 - GitHub公式, *Route and orchestrate models with GitHub Copilot Fusion*（2026-10-28）— GA、Single/Cascade/Critique、努力量、課金、対応クライアントなんだぜ  
   https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/
 - GitHub公式, *GitHub Copilot Fusion* — 詳しい利用方法や利用可能なモデルの説明なんだぜ  
-  https://docs.github.com/en/copilot/concepts/ai-models/github-copilot-fusion
+  https://docs.github.com/en/copilot/concepts/models/copilot-fusion
