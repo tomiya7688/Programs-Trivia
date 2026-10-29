@@ -22,6 +22,8 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 
 ### Tech News — 技術のリリース・発表なんだぜ
 
+- [GitHub ActionsでAIエージェントを動かす仕組みが正式提供になったんだぜ！](tech/2026-10-28-github-agentic-workflows-ga.md) — 2026-10-28
+- [AI Scanがリポジトリ全体を調べるんだぜ！でも料金には注意だぜ](tech/2026-10-28-ai-scan-repository-public-preview.md) — 2026-10-28
 - [HTTP2Shell、圧縮データを戻す処理に穴があったんだぜ！](tech/2026-10-25-http2shell-brotli-security.md) — 2026-10-25
 - [PHPの根幹に重大脆弱性、世界中で緊急アップデートなんだぜ！](tech/2026-10-21-php-critical-security-release.md) — 2026-10-21
 - [Python 3.15.0が正式リリースされたんだぜ！](tech/2026-10-09-python-3.15.0.md) — 2026-10-09
@@ -29,6 +31,7 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 
 ### GitHub Trending — 注目のリポジトリなんだぜ
 
+- [JetBrainsのThinkRail、AIの作業をworktreeで分けるIDEが注目なんだぜ！](github-trending/2026-10-28-jetbrains-thinkrail.md) — 2026-10-28
 - [TelegramのiOSアプリって、中身もビルド手順も読めるんだぜ！](github-trending/2026-10-22-telegram-ios.md) — 2026-10-22
 - [コードのつながりを地図にするGraphifyが話題なんだぜ！](github-trending/2026-10-22-graphify.md) — 2026-10-22
 - [Rustで画像編集に挑むPhotoCraftが面白いんだぜ！](github-trending/2026-10-16-photocraft.md) — 2026-10-16
