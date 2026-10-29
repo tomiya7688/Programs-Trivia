@@ -22,6 +22,9 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 
 ### Tech News — 技術のリリース・発表なんだぜ
 
+- [Node.js 26がLTS入り、名前はLithiumなんだぜ！](tech/2026-10-28-nodejs-26-lts-lithium.md) — 2026-10-28
+- [GitHub Copilot Fusionが正式版、AIをAIが選ぶ時代なんだぜ！](tech/2026-10-28-copilot-fusion-ga.md) — 2026-10-28
+- [GitHubの2026年統計、PRの4割超をAIが書き始めるんだぜ！？](tech/2026-10-28-octoverse-2026-agents.md) — 2026-10-28
 - [GitHub ActionsでAIエージェントを動かす仕組みが正式提供になったんだぜ！](tech/2026-10-28-github-agentic-workflows-ga.md) — 2026-10-28
 - [AI Scanがリポジトリ全体を調べるんだぜ！でも料金には注意だぜ](tech/2026-10-28-ai-scan-repository-public-preview.md) — 2026-10-28
 - [HTTP2Shell、圧縮データを戻す処理に穴があったんだぜ！](tech/2026-10-25-http2shell-brotli-security.md) — 2026-10-25
@@ -31,6 +34,8 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 
 ### GitHub Trending — 注目のリポジトリなんだぜ
 
+- [CloudflareのAIセキュリティ監査、見つけた脆弱性を疑うんだぜ！](github-trending/2026-10-28-cloudflare-security-audit-skill.md) — 2026-10-28
+- [HTMLを書いたら動画になるHyperFramesが注目なんだぜ！](github-trending/2026-10-28-heygen-hyperframes.md) — 2026-10-28
 - [JetBrainsのThinkRail、AIの作業をworktreeで分けるIDEが注目なんだぜ！](github-trending/2026-10-28-jetbrains-thinkrail.md) — 2026-10-28
 - [TelegramのiOSアプリって、中身もビルド手順も読めるんだぜ！](github-trending/2026-10-22-telegram-ios.md) — 2026-10-22
 - [コードのつながりを地図にするGraphifyが話題なんだぜ！](github-trending/2026-10-22-graphify.md) — 2026-10-22
