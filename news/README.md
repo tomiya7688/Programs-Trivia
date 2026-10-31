@@ -30,6 +30,8 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 - [AI Scanがリポジトリ全体を調べるんだぜ！でも料金には注意だぜ](tech/2026-10-28-ai-scan-repository-public-preview.md) — 2026-10-28
 - [HTTP2Shell、圧縮データを戻す処理に穴があったんだぜ！](tech/2026-10-25-http2shell-brotli-security.md) — 2026-10-25
 - [PHPの根幹に重大脆弱性、世界中で緊急アップデートなんだぜ！](tech/2026-10-21-php-critical-security-release.md) — 2026-10-21
+- [GitHub Actionsにlockfileが来たんだぜ！](tech/2026-10-14-github-actions-lockfiles.md) — 2026-10-14
+- [GitHub CopilotのHydraFusionにMaxが来たんだぜ！](tech/2026-10-14-hydrafusion-max.md) — 2026-10-14
 - [Python 3.15.0が正式リリースされたんだぜ！](tech/2026-10-09-python-3.15.0.md) — 2026-10-09
 - [Rust 1.99.0でCとの境界がまた扱いやすくなったんだぜ！](tech/2026-10-01-rust-1.99.0.md) — 2026-10-01
 

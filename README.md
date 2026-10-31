@@ -25,6 +25,8 @@
 - [Rustで画像編集に挑むPhotoCraftが面白いんだぜ！](news/github-trending/2026-10-16-photocraft.md)
 - [AIにアプリの仕組みを調べさせるREAが話題なんだぜ！](news/github-trending/2026-10-16-rea.md)
 - [LinuxやWindowsからiOSアプリを作るxtoolが面白いんだぜ！](news/github-trending/2026-10-16-xtool.md)
+- [GitHub Actionsにlockfileが来たんだぜ！](news/tech/2026-10-14-github-actions-lockfiles.md)
+- [GitHub CopilotのHydraFusionにMaxが来たんだぜ！](news/tech/2026-10-14-hydrafusion-max.md)
 - [Python 3.15.0が正式リリースされたんだぜ！](news/tech/2026-10-09-python-3.15.0.md)
 - [Rust 1.99.0でCとの境界がまた扱いやすくなったんだぜ！](news/tech/2026-10-01-rust-1.99.0.md)
 - [AIエージェントにCADを扱わせるtext-to-cadが面白いんだぜ！](news/github-trending/2026-10-15-text-to-cad.md)
