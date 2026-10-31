@@ -65,6 +65,9 @@
 - [#028 モニターに映すってな、メインコンピュータから見ると案外単純なんだぜ](trivia/028-displaying-a-frame-is-surprisingly-simple.md)
 - [#029 RISC-VだけがオープンなCPUアーキテクチャじゃないんだぜ](trivia/029-risc-v-is-not-the-only-open-cpu-architecture.md)
 - [#030 リレー式コンピュータだって、ちゃんとプログラミングできるんだぜ](trivia/030-relay-computers-were-programmable.md)
+- [#031 コンピュータってな、電子回路がなくても作れるんだぜ](trivia/031-computers-can-be-mechanical.md)
+- [#032 過去の脆弱性ニュースってな、並べるとコンピュータの歴史が見えるんだぜ](trivia/032-historic-security-vulnerability-news.md)
+- [#033 Windowsそのままなら安心？ BitLockerが持ち主を締め出すこともあるんだぜ](trivia/033-windows-default-bitlocker-recovery-trap.md)
 
 ---
 
