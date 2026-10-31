@@ -22,6 +22,8 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 
 ### Tech News — 技術のリリース・発表なんだぜ
 
+- [Anthropic、IPOしてもジャンク格付け予想なんだぜ！？ おいおい、GPU代は誰が払うんだぜ！](tech/2026-10-31-anthropic-ipo-junk-rating-outlook.md) — 2026-10-31
+- [ChatGPTとCodex、12月から同じ利用枠なんだぜ！？ ……まだ確定じゃないんだぜ！](tech/2026-10-31-chatgpt-codex-december-shared-limit-rumor.md) — 2026-10-31
 - [LLM企業はどこも赤字なんだぜ！？ ……と思ったら四半期黒字もあるんだぜ！](tech/2026-10-31-llm-business-profits-and-losses.md) — 2026-10-31
 - [仮想通貨のETHも崩れたんだぜ！？ XRPは1年でほぼ半値、市場も大荒れなんだぜ！](tech/2026-10-31-crypto-eth-xrp-market-decline.md) — 2026-10-31
 - [LinuxカーネルにCVSS 9.8、TCPの穴からrootを狙えるんだぜ！？](tech/2026-10-31-linux-kernel-tcp-cve-2026-98432.md) — 2026-10-31
