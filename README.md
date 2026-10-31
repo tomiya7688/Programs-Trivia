@@ -18,6 +18,7 @@
 - [GitHub ActionsでAIエージェントを動かす仕組みが正式提供になったんだぜ！](news/tech/2026-10-28-github-agentic-workflows-ga.md)
 - [AI Scanがリポジトリ全体を調べるんだぜ！でも料金には注意だぜ](news/tech/2026-10-28-ai-scan-repository-public-preview.md)
 - [JetBrainsのThinkRail、AIの作業をworktreeで分けるIDEが注目なんだぜ！](news/github-trending/2026-10-28-jetbrains-thinkrail.md)
+- [ETH崩壊か！？ 3-SATの指数時間の壁にAIが穴を開けたんだぜ！](news/tech/2026-10-26-exponential-time-hypothesis-ai-refutation.md)
 - [HTTP2Shell、圧縮データを戻す処理に穴があったんだぜ！](news/tech/2026-10-25-http2shell-brotli-security.md)
 - [PHPの根幹に重大脆弱性、世界中で緊急アップデートなんだぜ！](news/tech/2026-10-21-php-critical-security-release.md)
 - [TelegramのiOSアプリって、中身もビルド手順も読めるんだぜ！](news/github-trending/2026-10-22-telegram-ios.md)
