@@ -52,15 +52,27 @@ GitHubは通常のHydraFusionを「バランスとトークン節約」、Maxを
 ただし、**Maxにしたら必ず全タスクの正答率が上がる、と確認されたわけではない**んだぜ。
 タスクによって必要な計算量も、求められる速さも違うからなんだぜ。
 
-## まだリサーチプレビューなんだぜ
+## 10月14日時点ではリサーチプレビューなんだぜ
 
-HydraFusionもHydraFusion Maxも、発表時点では**リサーチプレビュー**なんだぜ。
+HydraFusionもHydraFusion Maxも、**2026年10月14日の発表時点ではリサーチプレビュー**だったんだぜ。
 
 GitHubの発表では、VS Code、GitHub Copilotアプリ、GitHub Copilot CLIで利用できるんだぜ。
 対象プランはCopilot Pro、Pro+、Business、Enterpriseで、プレビュー機能を有効にしていることなどの条件があるんだぜ。
 組織のモデル利用ポリシーにも左右されるんだぜ。
 
 正式提供済みの確定仕様として扱うのは早いんだぜ。
+
+## 2026年10月28日追記：Copilot Fusionとして正式版になったんだぜ！
+
+おいおい、こっちもリサーチプレビューを紹介している間に正式版が出たんだぜ！
+
+GitHubは10月28日、HydraFusionの複数モデル連携と自動モデル選択を組み合わせた **GitHub Copilot Fusion** の一般提供（GA）を発表したんだぜ。
+
+現在は **Standard / High / Max** の努力量を選べて、**Single / Cascade / Critique** の処理を必要に応じて使い分けるんだぜ。
+
+当初のHydraFusionやHydraFusion Maxを選んでいたユーザーは、対応するCopilot Fusion設定へ自動移行する案内になっているんだぜ。つまり「HydraFusion Maxが現在も単独のプレビュー製品として提供中」というわけじゃないんだぜ。
+
+最新版の詳細は[Copilot Fusion正式版のニュース](2026-10-28-copilot-fusion-ga.md)でも紹介しているんだぜ。
 
 ## だからなんだぜ
 
@@ -78,3 +90,6 @@ AIエージェントの設計そのものが、開発ツールの機能になっ
 
 - GitHub Changelog（2026-10-14） — https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option/
 - GitHub Docs（発表記事から案内されるドキュメント） — https://docs.github.com/en/copilot
+
+- GitHub Changelog（2026-10-28）, *Route and orchestrate models with GitHub Copilot Fusion* — 一般提供と移行の案内なんだぜ  
+  https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/
