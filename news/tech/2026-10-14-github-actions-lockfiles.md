@@ -70,6 +70,18 @@ GitHubの発表では、Enterprise Cloud、Enterprise Cloud with data residency�
 そして、**lockfileに書かれたコードが安全だと保証されるわけではない**んだぜ。
 固定する前に依存先を確認し、更新時の差分をレビューする必要があるぜ。
 
+## 2026年10月28日追記：おいおい、もう正式版になったんだぜ！
+
+この記事は**10月14日のパブリックプレビュー発表**を紹介したものなんだぜ。
+
+ところが10月28日には、GitHubが **Actions workflow dependency lockfilesの一般提供（GA）** を発表したんだぜ！
+
+「まだプレビューなんだぜ」と読んで安心してたら、もう正式版になったんだぜ。**これは早いんだぜ！**
+
+Enterprise Cloud、Team、Freeなどを含む対象プランで使えること、`gh actions-lock` による生成、Dependabotとの連携は正式版の案内でも確認できるぜ。現在の提供条件は公式資料を参照するんだぜ。
+
+もちろん、**lockfileは依存アクションの中身が安全かどうかを検査してくれるわけじゃない**んだぜ。固定する前のコードレビューは引き続き必要だぜ。
+
 ## だからなんだぜ
 
 今までもGitHub ActionsではコミットSHAを直接指定する方法が推奨されていたんだぜ。
@@ -83,3 +95,6 @@ CIをたくさん動かすプロジェクトほど、一度調べてみる価値
 - GitHub Changelog（2026-10-14） — https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview/
 - GitHub Docs, *Workflow dependency lockfiles* — https://docs.github.com/en/enterprise-cloud@latest/actions/concepts/security/workflow-dependency-lockfiles
 - GitHub, *gh-actions-lock* — https://github.com/github/gh-actions-lock
+
+- GitHub Changelog（2026-10-28）, *GitHub Actions workflow lockfiles are generally available* — プレビュー後の正式提供の発表なんだぜ  
+  https://github.blog/changelog/2026-10-28-github-actions-workflow-lockfiles-are-generally-available/
