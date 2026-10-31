@@ -9,6 +9,8 @@
 トリビアだけじゃなく、技術の新しい発表やGitHubの注目リポジトリ、Tomiya製プロジェクトのニュースも書いていくんだぜ！
 
 - [ニュース一覧と編集方針](news/README.md)
+- [Anthropic、IPOしてもジャンク格付け予想なんだぜ！？ おいおい、GPU代は誰が払うんだぜ！](news/tech/2026-10-31-anthropic-ipo-junk-rating-outlook.md)
+- [ChatGPTとCodex、12月から同じ利用枠なんだぜ！？ ……まだ確定じゃないんだぜ！](news/tech/2026-10-31-chatgpt-codex-december-shared-limit-rumor.md)
 - [LLM企業はどこも赤字なんだぜ！？ ……と思ったら四半期黒字もあるんだぜ！](news/tech/2026-10-31-llm-business-profits-and-losses.md)
 - [仮想通貨のETHも崩れたんだぜ！？ XRPは1年でほぼ半値、市場も大荒れなんだぜ！](news/tech/2026-10-31-crypto-eth-xrp-market-decline.md)
 - [LinuxカーネルにCVSS 9.8、TCPの穴からrootを狙えるんだぜ！？](news/tech/2026-10-31-linux-kernel-tcp-cve-2026-98432.md)
