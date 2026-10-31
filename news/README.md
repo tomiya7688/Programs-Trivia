@@ -28,6 +28,7 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 - [GitHubの2026年統計、PRの4割超をAIが書き始めるんだぜ！？](tech/2026-10-28-octoverse-2026-agents.md) — 2026-10-28
 - [GitHub ActionsでAIエージェントを動かす仕組みが正式提供になったんだぜ！](tech/2026-10-28-github-agentic-workflows-ga.md) — 2026-10-28
 - [AI Scanがリポジトリ全体を調べるんだぜ！でも料金には注意だぜ](tech/2026-10-28-ai-scan-repository-public-preview.md) — 2026-10-28
+- [ETH崩壊か！？ 3-SATの指数時間の壁にAIが穴を開けたんだぜ！](tech/2026-10-26-exponential-time-hypothesis-ai-refutation.md) — 2026-10-26
 - [HTTP2Shell、圧縮データを戻す処理に穴があったんだぜ！](tech/2026-10-25-http2shell-brotli-security.md) — 2026-10-25
 - [PHPの根幹に重大脆弱性、世界中で緊急アップデートなんだぜ！](tech/2026-10-21-php-critical-security-release.md) — 2026-10-21
 - [GitHub Actionsにlockfileが来たんだぜ！](tech/2026-10-14-github-actions-lockfiles.md) — 2026-10-14
