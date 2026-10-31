@@ -22,6 +22,7 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 
 ### Tech News — 技術のリリース・発表なんだぜ
 
+- [LinuxカーネルにCVSS 9.8、TCPの穴からrootを狙えるんだぜ！？](tech/2026-10-31-linux-kernel-tcp-cve-2026-98432.md) — 2026-10-31
 - [Node.js 26がLTS入り、名前はLithiumなんだぜ！](tech/2026-10-28-nodejs-26-lts-lithium.md) — 2026-10-28
 - [GitHub Copilot Fusionが正式版、AIをAIが選ぶ時代なんだぜ！](tech/2026-10-28-copilot-fusion-ga.md) — 2026-10-28
 - [GitHubの2026年統計、PRの4割超をAIが書き始めるんだぜ！？](tech/2026-10-28-octoverse-2026-agents.md) — 2026-10-28
