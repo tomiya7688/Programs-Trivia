@@ -40,3 +40,9 @@
 - [ ] GitHub Trending順位やStar数を検証なしで断定していないんだぜ
 - [ ] Tomiya Newsなら関係者記事だと書いたんだぜ
 -->
+
+<!--
+記事のファイル名は日本語にするんだぜ！
+例えば news/tech/YYYY-MM-DD-日本語の短い題名.md なんだぜ。
+GitHubの慣例により README.md や TEMPLATE.md 自体は変更しないぜ。
+-->

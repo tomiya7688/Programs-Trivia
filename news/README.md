@@ -22,40 +22,48 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 
 ### Tech News — 技術のリリース・発表なんだぜ
 
-- [Anthropic、IPOしてもジャンク格付け予想なんだぜ！？ おいおい、GPU代は誰が払うんだぜ！](tech/2026-10-31-anthropic-ipo-junk-rating-outlook.md) — 2026-10-31
-- [ChatGPTとCodex、12月から同じ利用枠なんだぜ！？ ……まだ確定じゃないんだぜ！](tech/2026-10-31-chatgpt-codex-december-shared-limit-rumor.md) — 2026-10-31
-- [LLM企業はどこも赤字なんだぜ！？ ……と思ったら四半期黒字もあるんだぜ！](tech/2026-10-31-llm-business-profits-and-losses.md) — 2026-10-31
-- [仮想通貨のETHも崩れたんだぜ！？ XRPは1年でほぼ半値、市場も大荒れなんだぜ！](tech/2026-10-31-crypto-eth-xrp-market-decline.md) — 2026-10-31
-- [LinuxカーネルにCVSS 9.8、TCPの穴からrootを狙えるんだぜ！？](tech/2026-10-31-linux-kernel-tcp-cve-2026-98432.md) — 2026-10-31
-- [Node.js 26がLTS入り、名前はLithiumなんだぜ！](tech/2026-10-28-nodejs-26-lts-lithium.md) — 2026-10-28
-- [GitHub Copilot Fusionが正式版、AIをAIが選ぶ時代なんだぜ！](tech/2026-10-28-copilot-fusion-ga.md) — 2026-10-28
-- [GitHubの2026年統計、PRの4割超をAIが書き始めるんだぜ！？](tech/2026-10-28-octoverse-2026-agents.md) — 2026-10-28
-- [GitHub ActionsでAIエージェントを動かす仕組みが正式提供になったんだぜ！](tech/2026-10-28-github-agentic-workflows-ga.md) — 2026-10-28
-- [AI Scanがリポジトリ全体を調べるんだぜ！でも料金には注意だぜ](tech/2026-10-28-ai-scan-repository-public-preview.md) — 2026-10-28
-- [ETH崩壊か！？ 3-SATの指数時間の壁にAIが穴を開けたんだぜ！](tech/2026-10-26-exponential-time-hypothesis-ai-refutation.md) — 2026-10-26
-- [HTTP2Shell、圧縮データを戻す処理に穴があったんだぜ！](tech/2026-10-25-http2shell-brotli-security.md) — 2026-10-25
-- [PHPの根幹に重大脆弱性、世界中で緊急アップデートなんだぜ！](tech/2026-10-21-php-critical-security-release.md) — 2026-10-21
-- [GitHub Actionsにlockfileが来たんだぜ！](tech/2026-10-14-github-actions-lockfiles.md) — 2026-10-14
-- [GitHub CopilotのHydraFusionにMaxが来たんだぜ！](tech/2026-10-14-hydrafusion-max.md) — 2026-10-14
-- [Python 3.15.0が正式リリースされたんだぜ！](tech/2026-10-09-python-3.15.0.md) — 2026-10-09
-- [Rust 1.99.0でCとの境界がまた扱いやすくなったんだぜ！](tech/2026-10-01-rust-1.99.0.md) — 2026-10-01
+- [Anthropic、IPOしてもジャンク格付け予想なんだぜ！？ おいおい、GPU代は誰が払うんだぜ！](tech/2026-10-31-AnthropicのIPO後信用格付け予想.md) — 2026-10-31
+- [ChatGPTとCodex、12月から同じ利用枠なんだぜ！？ ……まだ確定じゃないんだぜ！](tech/2026-10-31-ChatGPTとCodexの利用枠共通化の噂.md) — 2026-10-31
+- [LLM企業はどこも赤字なんだぜ！？ ……と思ったら四半期黒字もあるんだぜ！](tech/2026-10-31-LLM企業の赤字と黒字.md) — 2026-10-31
+- [仮想通貨のETHも崩れたんだぜ！？ XRPは1年でほぼ半値、市場も大荒れなんだぜ！](tech/2026-10-31-暗号資産ETHとXRPの下落.md) — 2026-10-31
+- [LinuxカーネルにCVSS 9.8、TCPの穴からrootを狙えるんだぜ！？](tech/2026-10-31-LinuxカーネルのTCP脆弱性.md) — 2026-10-31
+- [Node.js 26がLTS入り、名前はLithiumなんだぜ！](tech/2026-10-28-Node.js26のLTS移行.md) — 2026-10-28
+- [GitHub Copilot Fusionが正式版、AIをAIが選ぶ時代なんだぜ！](tech/2026-10-28-Copilot-Fusion正式提供.md) — 2026-10-28
+- [GitHubの2026年統計、PRの4割超をAIが書き始めるんだぜ！？](tech/2026-10-28-GitHub-Octoverse2026とAI.md) — 2026-10-28
+- [GitHub ActionsでAIエージェントを動かす仕組みが正式提供になったんだぜ！](tech/2026-10-28-GitHub-Agentic-Workflows正式提供.md) — 2026-10-28
+- [AI Scanがリポジトリ全体を調べるんだぜ！でも料金には注意だぜ](tech/2026-10-28-GitHubのAI-Scan公開プレビュー.md) — 2026-10-28
+- [ETH崩壊か！？ 3-SATの指数時間の壁にAIが穴を開けたんだぜ！](tech/2026-10-26-指数時間仮説ETHの反証.md) — 2026-10-26
+- [HTTP2Shell、圧縮データを戻す処理に穴があったんだぜ！](tech/2026-10-25-Brotliの脆弱性HTTP2Shell.md) — 2026-10-25
+- [PHPの根幹に重大脆弱性、世界中で緊急アップデートなんだぜ！](tech/2026-10-21-PHPの重大脆弱性.md) — 2026-10-21
+- [GitHub Actionsにlockfileが来たんだぜ！](tech/2026-10-14-GitHubActionsのロックファイル.md) — 2026-10-14
+- [GitHub CopilotのHydraFusionにMaxが来たんだぜ！](tech/2026-10-14-HydraFusion-Maxの発表.md) — 2026-10-14
+- [Python 3.15.0が正式リリースされたんだぜ！](tech/2026-10-09-Python3.15.0リリース.md) — 2026-10-09
+- [Rust 1.99.0でCとの境界がまた扱いやすくなったんだぜ！](tech/2026-10-01-Rust1.99.0とC言語.md) — 2026-10-01
 
 ### GitHub Trending — 注目のリポジトリなんだぜ
 
-- [CloudflareのAIセキュリティ監査、見つけた脆弱性を疑うんだぜ！](github-trending/2026-10-28-cloudflare-security-audit-skill.md) — 2026-10-28
-- [HTMLを書いたら動画になるHyperFramesが注目なんだぜ！](github-trending/2026-10-28-heygen-hyperframes.md) — 2026-10-28
-- [JetBrainsのThinkRail、AIの作業をworktreeで分けるIDEが注目なんだぜ！](github-trending/2026-10-28-jetbrains-thinkrail.md) — 2026-10-28
-- [TelegramのiOSアプリって、中身もビルド手順も読めるんだぜ！](github-trending/2026-10-22-telegram-ios.md) — 2026-10-22
-- [コードのつながりを地図にするGraphifyが話題なんだぜ！](github-trending/2026-10-22-graphify.md) — 2026-10-22
-- [Rustで画像編集に挑むPhotoCraftが面白いんだぜ！](github-trending/2026-10-16-photocraft.md) — 2026-10-16
-- [AIにアプリの仕組みを調べさせるREAが話題なんだぜ！](github-trending/2026-10-16-rea.md) — 2026-10-16
-- [LinuxやWindowsからiOSアプリを作るxtoolが面白いんだぜ！](github-trending/2026-10-16-xtool.md) — 2026-10-16
-- [AIエージェントにCADを扱わせるtext-to-cadが面白いんだぜ！](github-trending/2026-10-15-text-to-cad.md) — 2026-10-15
-- [PS5実行ファイルの移植を目指すAnyPS5が話題なんだぜ！](github-trending/2026-10-15-anyps5.md) — 2026-10-15
+- [CloudflareのAIセキュリティ監査、見つけた脆弱性を疑うんだぜ！](github-trending/2026-10-28-CloudflareのAIセキュリティ監査.md) — 2026-10-28
+- [HTMLを書いたら動画になるHyperFramesが注目なんだぜ！](github-trending/2026-10-28-HTMLから動画を作るHyperFrames.md) — 2026-10-28
+- [JetBrainsのThinkRail、AIの作業をworktreeで分けるIDEが注目なんだぜ！](github-trending/2026-10-28-JetBrainsのThinkRail.md) — 2026-10-28
+- [TelegramのiOSアプリって、中身もビルド手順も読めるんだぜ！](github-trending/2026-10-22-TelegramのiOSアプリのソースコード.md) — 2026-10-22
+- [コードのつながりを地図にするGraphifyが話題なんだぜ！](github-trending/2026-10-22-コードを地図にするGraphify.md) — 2026-10-22
+- [Rustで画像編集に挑むPhotoCraftが面白いんだぜ！](github-trending/2026-10-16-Rust製画像編集PhotoCraft.md) — 2026-10-16
+- [AIにアプリの仕組みを調べさせるREAが話題なんだぜ！](github-trending/2026-10-16-AIでアプリを解析するREA.md) — 2026-10-16
+- [LinuxやWindowsからiOSアプリを作るxtoolが面白いんだぜ！](github-trending/2026-10-16-LinuxからiOSアプリを作るxtool.md) — 2026-10-16
+- [AIエージェントにCADを扱わせるtext-to-cadが面白いんだぜ！](github-trending/2026-10-15-AIエージェントでCADを扱うtext-to-cad.md) — 2026-10-15
+- [PS5実行ファイルの移植を目指すAnyPS5が話題なんだぜ！](github-trending/2026-10-15-PS5移植を目指すAnyPS5.md) — 2026-10-15
 
 ### Tomiya News — Tomiyaの開発ニュースなんだぜ
 
-- [おばけの住処 GPT、Ver1.0.0が公開されたんだぜ！](tomiya/2026-09-20-chatgpt-obakenosumika-v1.0.0.md) — 2026-09-20
+- [おばけの住処 GPT、Ver1.0.0が公開されたんだぜ！](tomiya/2026-09-20-おばけの住処GPT-Ver1.0.0.md) — 2026-09-20
+
+## ファイル名も日本語にするんだぜ
+
+ニュースは `YYYY-MM-DD-日本語の短い題名.md`、トリビアは `NNN-日本語の短い題名.md` にするんだぜ。番号と日付は並べ替えのため残しておくぜ。
+
+製品名、CVE番号、バージョンは英数字でもいいんだぜ。URLで扱いにくい `/`、`?`、`#`、空白はファイル名から外すぜ。
+
+過去に共有した英語ファイル名のURLには、移動先を案内する短い文書を残しているぜ。**新しいリンクは日本語ファイル名の正本へ張るんだぜ。** GitHub慣例の `README.md` と `TEMPLATE.md` は例外なんだぜ。
 
 ## ニュースを書くときの約束なんだぜ
 
