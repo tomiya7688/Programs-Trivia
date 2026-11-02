@@ -72,7 +72,7 @@ GitHubは10月28日、HydraFusionの複数モデル連携と自動モデル選�
 
 当初のHydraFusionやHydraFusion Maxを選んでいたユーザーは、対応するCopilot Fusion設定へ自動移行する案内になっているんだぜ。つまり「HydraFusion Maxが現在も単独のプレビュー製品として提供中」というわけじゃないんだぜ。
 
-最新版の詳細は[Copilot Fusion正式版のニュース](2026-10-28-copilot-fusion-ga.md)でも紹介しているんだぜ。
+最新版の詳細は[Copilot Fusion正式版のニュース](2026-10-28-Copilot-Fusion正式提供.md)でも紹介しているんだぜ。
 
 ## だからなんだぜ
 
