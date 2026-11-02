@@ -97,7 +97,7 @@ Microsoft自身が、**紛失したBitLocker回復キーを取得・提供・再
 
 ## 2024年には復旧作業まで面倒になったんだぜ
 
-[#032の番外編](032-historic-security-vulnerability-news.md) では、2024年7月にCrowdStrikeの更新不具合で大量のWindows端末が停止した事故を紹介したんだぜ。
+[#032の番外編](032-歴史に残る脆弱性ニュース.md) では、2024年7月にCrowdStrikeの更新不具合で大量のWindows端末が停止した事故を紹介したんだぜ。
 
 その復旧手順を説明したMicrosoftの資料にも、**セーフモードなどを使う際にBitLocker回復キーが必要になる場合がある**と書かれているんだぜ。
 
