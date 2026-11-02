@@ -1,0 +1,95 @@
+# GitHub CopilotのHydraFusionにMaxが来たんだぜ！
+
+- **掲載日**: 2026-10-22
+- **出来事の日付**: 2026-10-14
+- **区分**: Tech News / 開発AI
+- **対象**: GitHub Copilot / HydraFusion・HydraFusion Max（リサーチプレビュー）
+
+## AIを1モデルずつ選ばなくてもいい時代なんだぜ？
+
+GitHubが2026年10月14日、**HydraFusionの更新と新しい「HydraFusion Max」**を発表したんだぜ。
+
+HydraFusionは、ひとつのモデルがすべてを担当するのではなく、**複数のAIモデルを組み合わせて1つの回答を作る仕組み**なんだぜ。
+
+開発者が「この作業はどのモデルが向いてるんだぜ？」と毎回選ばなくても、仕事の段階に応じてモデルを組み合わせる方向なんだぜ。
+
+## 下書きとレビューで考える深さを変えるんだぜ
+
+今回の更新では、工程に応じた**推論の強さの調整**が追加されたんだぜ。
+
+例えばGitHubは、初期の下書きでmedium、レビューでhighの推論を使うような考え方を紹介しているんだぜ。
+
+~~~text
+まず下書きを作るんだぜ
+    ↓
+必要なところを深くレビューするんだぜ
+    ↓
+問題があれば修正を試みるんだぜ
+~~~
+
+という分担なんだぜ。
+
+「最初から最後まで全部最大の推論で回す」という方法だけじゃないんだぜ。
+
+## CascadeとCritiqueも変わったんだぜ
+
+GitHubの説明では、次のような改善が挙げられているんだぜ。
+
+**Cascade** は、最初の回答を判定して、必要な場合だけ修正を求める工程を追加できるようになったんだぜ。
+
+**Critique** は、説明文だけを読んで評価するより、実際のワークスペースをツールで調べる方向へ進んだんだぜ。
+さらに、複数の批評モデルで並列にレビューする仕組みも取り入れているんだぜ。
+
+モデルプールにはClaude Opus 5.5、GPT-6 Astra、GPT-6.1 Sol、GPT-6 Lunaなどが含まれると発表されたんだぜ。
+**ひとつのタスクでこれら全部を必ず使うという意味ではない**んだぜ。
+
+## Maxは単純な上位互換と決めつけないんだぜ
+
+今回追加された **HydraFusion Max** は、特に複雑な作業を重視して推論の深さを高める構成なんだぜ。
+
+GitHubは通常のHydraFusionを「バランスとトークン節約」、Maxを「難しいタスクでのより深い推論」という用途で説明しているんだぜ。
+
+ただし、**Maxにしたら必ず全タスクの正答率が上がる、と確認されたわけではない**んだぜ。
+タスクによって必要な計算量も、求められる速さも違うからなんだぜ。
+
+## 10月14日時点ではリサーチプレビューなんだぜ
+
+HydraFusionもHydraFusion Maxも、**2026年10月14日の発表時点ではリサーチプレビュー**だったんだぜ。
+
+GitHubの発表では、VS Code、GitHub Copilotアプリ、GitHub Copilot CLIで利用できるんだぜ。
+対象プランはCopilot Pro、Pro+、Business、Enterpriseで、プレビュー機能を有効にしていることなどの条件があるんだぜ。
+組織のモデル利用ポリシーにも左右されるんだぜ。
+
+正式提供済みの確定仕様として扱うのは早いんだぜ。
+
+## 2026年10月28日追記：Copilot Fusionとして正式版になったんだぜ！
+
+おいおい、こっちもリサーチプレビューを紹介している間に正式版が出たんだぜ！
+
+GitHubは10月28日、HydraFusionの複数モデル連携と自動モデル選択を組み合わせた **GitHub Copilot Fusion** の一般提供（GA）を発表したんだぜ。
+
+現在は **Standard / High / Max** の努力量を選べて、**Single / Cascade / Critique** の処理を必要に応じて使い分けるんだぜ。
+
+当初のHydraFusionやHydraFusion Maxを選んでいたユーザーは、対応するCopilot Fusion設定へ自動移行する案内になっているんだぜ。つまり「HydraFusion Maxが現在も単独のプレビュー製品として提供中」というわけじゃないんだぜ。
+
+最新版の詳細は[Copilot Fusion正式版のニュース](2026-10-28-copilot-fusion-ga.md)でも紹介しているんだぜ。
+
+## だからなんだぜ
+
+今までのAI開発支援では、
+
+> どのモデルが一番強いんだぜ？
+
+が話題になりがちだったんだぜ。
+
+でもHydraFusionは、**モデルをどう選び、どの工程でどれだけ考えさせ、どうレビューさせるか**に重点を置いているんだぜ。
+
+AIエージェントの設計そのものが、開発ツールの機能になってきているんだぜ！
+
+### Sources
+
+- GitHub Changelog（2026-10-14） — https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option/
+- GitHub Docs（発表記事から案内されるドキュメント） — https://docs.github.com/en/copilot
+
+- GitHub Changelog（2026-10-28）, *Route and orchestrate models with GitHub Copilot Fusion* — 一般提供と移行の案内なんだぜ  
+  https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/
