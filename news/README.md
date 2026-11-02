@@ -21,6 +21,7 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 ## 月別アーカイブ
 
 - [2026年のニュース](2026/README.md) — 月ごとの一覧なんだぜ
+- [2026年11月](2026/11/README.md) — Strataの話題なんだぜ
 - [2026年10月](2026/10/README.md) — Tech・GitHubの話題なんだぜ
 - [2026年9月](2026/09/README.md) — Tomiyaのニュースなんだぜ
 
@@ -48,6 +49,7 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 
 ### GitHub Trending — 注目のリポジトリなんだぜ
 
+- [Strataが注目なんだぜ！ 巨大LLMを自分のPCで動かすんだぜ！](2026/11/github-trending/2026-11-02-StrataでローカルLLMを動かす.md) — 2026-11-02
 - [CloudflareのAIセキュリティ監査、見つけた脆弱性を疑うんだぜ！](2026/10/github-trending/2026-10-28-CloudflareのAIセキュリティ監査.md) — 2026-10-28
 - [HTMLを書いたら動画になるHyperFramesが注目なんだぜ！](2026/10/github-trending/2026-10-28-HTMLから動画を作るHyperFrames.md) — 2026-10-28
 - [JetBrainsのThinkRail、AIの作業をworktreeで分けるIDEが注目なんだぜ！](2026/10/github-trending/2026-10-28-JetBrainsのThinkRail.md) — 2026-10-28
