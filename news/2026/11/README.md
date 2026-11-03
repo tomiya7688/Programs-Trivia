@@ -6,7 +6,7 @@
 
 ## Tech Newsなんだぜ
 
-- [Copilot Memory、Disabledだったのに記憶が許可されるんだぜ！？ 設定が二つに分かれたんだぜ！](tech/2026-11-03-Copilot-Memoryの既定値と設定分離.md) — 2026-11-03
+- [Copilot Memory、2択が4択に！？ Disabledが記憶許可の表示に変わったんだぜ！](tech/2026-11-03-Copilot-Memoryの既定値と設定分離.md) — 2026-11-03
 - [ChatGPTとCodexの利用枠、12月から共通化なんだぜ！ 10月の噂が公式案内になったんだぜ！](tech/2026-11-03-ChatGPTとCodexの利用枠共通化が公式発表.md) — 2026-11-03
 - [Grok BotにData Botが来たんだぜ！ チームにデータサイエンティストが増えたんだぜ！？](tech/2026-11-03-Grok-BotのData-Bot.md) — 2026-11-03
 - [Claudeが新しくなったのはモデルじゃなくアプリなんだぜ！ チャットもCoworkも一緒なんだぜ！](tech/2026-11-03-Claudeアプリ刷新とCowork統合.md) — 2026-11-03
