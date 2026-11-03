@@ -9,6 +9,7 @@
 トリビアだけじゃなく、技術の新しい発表やGitHubの注目リポジトリ、Tomiya製プロジェクトのニュースも書いていくんだぜ！
 
 - [ニュース一覧と編集方針](news/README.md)
+- [Claudeが新しくなったのはモデルじゃなくアプリなんだぜ！ チャットもCoworkも一緒なんだぜ！](news/2026/11/tech/2026-11-03-Claudeアプリ刷新とCowork統合.md)
 - [Strataが注目なんだぜ！ 巨大LLMを自分のPCで動かすんだぜ！](news/2026/11/github-trending/2026-11-02-StrataでローカルLLMを動かす.md)
 - [2026年の月別ニュース一覧](news/2026/README.md)
 - [Anthropic、IPOしてもジャンク格付け予想なんだぜ！？ おいおい、GPU代は誰が払うんだぜ！](news/2026/10/tech/2026-10-31-AnthropicのIPO後信用格付け予想.md)
