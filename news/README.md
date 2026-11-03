@@ -27,13 +27,9 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 
 ## 記事一覧
 
-<!-- 2026-11-03 新着なんだぜ -->
-- [GitHub Actionsのpull_request_target、12月から既定で止まるんだぜ！](2026/11/tech/2026-11-03-pull_request_targetの既定ブロック.md) — 2026-11-03
-- [AIが画面のピクセルを見ずにPCを操作するんだぜ！ agent-desktopが注目なんだぜ！](2026/11/github-trending/2026-11-03-agent-desktopは画面を読んで操作する.md) — 2026-11-03
-- [IntelliJ IDEA風のIDEをRustで作るんだぜ！ OpenIDEAが注目なんだぜ！](2026/11/github-trending/2026-11-03-OpenIDEAはRust製のIDEなんだぜ.md) — 2026-11-03
-
 ### Tech News — 技術のリリース・発表なんだぜ
 
+- [GitHub Actionsのpull_request_target、12月から既定で止まるんだぜ！](2026/11/tech/2026-11-03-pull_request_targetの既定ブロック.md) — 2026-11-03
 - [Copilot Memory、2択が4択に！？ Disabledが記憶許可の表示に変わったんだぜ！](2026/11/tech/2026-11-03-Copilot-Memoryの既定値と設定分離.md) — 2026-11-03
 - [ChatGPTとCodexの利用枠、12月から共通化なんだぜ！ 10月の噂が公式案内になったんだぜ！](2026/11/tech/2026-11-03-ChatGPTとCodexの利用枠共通化が公式発表.md) — 2026-11-03
 - [Grok BotにData Botが来たんだぜ！ チームにデータサイエンティストが増えたんだぜ！？](2026/11/tech/2026-11-03-Grok-BotのData-Bot.md) — 2026-11-03
@@ -58,6 +54,8 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 
 ### GitHub Trending — 注目のリポジトリなんだぜ
 
+- [画面の「構造」を読んでPCを操作するんだぜ！ agent-desktopが注目なんだぜ！](2026/11/github-trending/2026-11-03-agent-desktopは画面を読んで操作する.md) — 2026-11-03
+- [RustコアでIntelliJ風のIDEに挑むんだぜ！ OpenIDEAが注目なんだぜ！](2026/11/github-trending/2026-11-03-OpenIDEAはRust製のIDEなんだぜ.md) — 2026-11-03
 - [Strataが注目なんだぜ！ 巨大LLMを自分のPCで動かすんだぜ！](2026/11/github-trending/2026-11-02-StrataでローカルLLMを動かす.md) — 2026-11-02
 - [CloudflareのAIセキュリティ監査、見つけた脆弱性を疑うんだぜ！](2026/10/github-trending/2026-10-28-CloudflareのAIセキュリティ監査.md) — 2026-10-28
 - [HTMLを書いたら動画になるHyperFramesが注目なんだぜ！](2026/10/github-trending/2026-10-28-HTMLから動画を作るHyperFrames.md) — 2026-10-28

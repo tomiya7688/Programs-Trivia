@@ -14,6 +14,6 @@
 
 ## GitHub Trendingなんだぜ
 
-- [AIが画面のピクセルを見ずにPCを操作するんだぜ！ agent-desktopが注目なんだぜ！](github-trending/2026-11-03-agent-desktopは画面を読んで操作する.md) — 2026-11-03
-- [IntelliJ IDEA風のIDEをRustで作るんだぜ！ OpenIDEAが注目なんだぜ！](github-trending/2026-11-03-OpenIDEAはRust製のIDEなんだぜ.md) — 2026-11-03
+- [画面の「構造」を読んでPCを操作するんだぜ！ agent-desktopが注目なんだぜ！](github-trending/2026-11-03-agent-desktopは画面を読んで操作する.md) — 2026-11-03
+- [RustコアでIntelliJ風のIDEに挑むんだぜ！ OpenIDEAが注目なんだぜ！](github-trending/2026-11-03-OpenIDEAはRust製のIDEなんだぜ.md) — 2026-11-03
 - [Strataが注目なんだぜ！ 巨大LLMを自分のPCで動かすんだぜ！](github-trending/2026-11-02-StrataでローカルLLMを動かす.md) — 2026-11-02
