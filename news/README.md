@@ -29,6 +29,7 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 
 ### Tech News — 技術のリリース・発表なんだぜ
 
+- [RSIの入口か！？ AstraがQwenの重み0.016%を書き換えたんだぜ！](2026/11/tech/2026-11-03-AstraがQwenの重みを書き換え数学が向上.md) — 2026-11-03
 - [GitHub Actionsのpull_request_target、12月から既定で止まるんだぜ！](2026/11/tech/2026-11-03-pull_request_targetの既定ブロック.md) — 2026-11-03
 - [Copilot Memory、2択が4択に！？ Disabledが記憶許可の表示に変わったんだぜ！](2026/11/tech/2026-11-03-Copilot-Memoryの既定値と設定分離.md) — 2026-11-03
 - [ChatGPTとCodexの利用枠、12月から共通化なんだぜ！ 10月の噂が公式案内になったんだぜ！](2026/11/tech/2026-11-03-ChatGPTとCodexの利用枠共通化が公式発表.md) — 2026-11-03
