@@ -82,6 +82,7 @@
 - [#033 Windowsそのままなら安心？ BitLockerが持ち主を締め出すこともあるんだぜ](trivia/033-WindowsのBitLocker回復キー.md)
 - [#034 メタデータってな、個人情報を抱えてるし書き換えもできるんだぜ！](trivia/034-メタデータの個人情報と書き換え.md)
 - [#035 Use-After-Freeってな、解放したメモリをまた使うことなんだぜ！](trivia/035-Use-After-Freeの仕組み.md)
+- [#036 ChatGPTの「GPT-6」ってな、中身のモデルは一種類じゃないんだぜ！](trivia/036-ChatGPTのモデル名と中身.md)
 
 ---
 
