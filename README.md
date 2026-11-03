@@ -9,6 +9,7 @@
 トリビアだけじゃなく、技術の新しい発表やGitHubの注目リポジトリ、Tomiya製プロジェクトのニュースも書いていくんだぜ！
 
 - [ニュース一覧と編集方針](news/README.md)
+- [Copilot Memory、Disabledだったのに記憶が許可されるんだぜ！？ 設定が二つに分かれたんだぜ！](news/2026/11/tech/2026-11-03-Copilot-Memoryの既定値と設定分離.md)
 - [ChatGPTとCodexの利用枠、12月から共通化なんだぜ！ 10月の噂が公式案内になったんだぜ！](news/2026/11/tech/2026-11-03-ChatGPTとCodexの利用枠共通化が公式発表.md)
 - [Grok BotにData Botが来たんだぜ！ チームにデータサイエンティストが増えたんだぜ！？](news/2026/11/tech/2026-11-03-Grok-BotのData-Bot.md)
 - [Claudeが新しくなったのはモデルじゃなくアプリなんだぜ！ チャットもCoworkも一緒なんだぜ！](news/2026/11/tech/2026-11-03-Claudeアプリ刷新とCowork統合.md)
