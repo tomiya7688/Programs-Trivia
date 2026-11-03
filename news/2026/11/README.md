@@ -6,6 +6,10 @@
 
 ## Tech Newsなんだぜ
 
+- [Gemini 4 Carbonが来たんだぜ！ AIの主戦場はサイバー防御なんだぜ！](tech/2026-11-03-Gemini4-Carbonとサイバー防御.md) — 2026-11-03
+- [Genie 4が喋るんだぜ！？ でも本体は会話AIじゃなく世界なんだぜ！](tech/2026-11-03-Genie4は喋る世界を生成する.md) — 2026-11-03
+- [Lovart 2.0、今度はデザインの仕事を丸ごと頼めるんだぜ！](tech/2026-11-03-Lovart2とArtiデザインエージェント.md) — 2026-11-03
+- [TypeScriptのコンパイラがGo製になったんだぜ！ しかも約10倍速いんだぜ！](tech/2026-11-03-TypeScript7コンパイラをGoに移植.md) — 2026-11-03
 - [RSIの入口か！？ AstraがQwenの重み0.016%を書き換えたんだぜ！](tech/2026-11-03-AstraがQwenの重みを書き換え数学が向上.md) — 2026-11-03
 - [GitHub Actionsのpull_request_target、12月から既定で止まるんだぜ！](tech/2026-11-03-pull_request_targetの既定ブロック.md) — 2026-11-03
 - [Copilot Memory、2択が4択に！？ Disabledが記憶許可の表示に変わったんだぜ！](tech/2026-11-03-Copilot-Memoryの既定値と設定分離.md) — 2026-11-03
