@@ -27,6 +27,11 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 
 ## 記事一覧
 
+<!-- 2026-11-03 新着なんだぜ -->
+- [GitHub Actionsのpull_request_target、12月から既定で止まるんだぜ！](2026/11/tech/2026-11-03-pull_request_targetの既定ブロック.md) — 2026-11-03
+- [AIが画面のピクセルを見ずにPCを操作するんだぜ！ agent-desktopが注目なんだぜ！](2026/11/github-trending/2026-11-03-agent-desktopは画面を読んで操作する.md) — 2026-11-03
+- [IntelliJ IDEA風のIDEをRustで作るんだぜ！ OpenIDEAが注目なんだぜ！](2026/11/github-trending/2026-11-03-OpenIDEAはRust製のIDEなんだぜ.md) — 2026-11-03
+
 ### Tech News — 技術のリリース・発表なんだぜ
 
 - [Copilot Memory、2択が4択に！？ Disabledが記憶許可の表示に変わったんだぜ！](2026/11/tech/2026-11-03-Copilot-Memoryの既定値と設定分離.md) — 2026-11-03

@@ -6,6 +6,7 @@
 
 ## Tech Newsなんだぜ
 
+- [GitHub Actionsのpull_request_target、12月から既定で止まるんだぜ！](tech/2026-11-03-pull_request_targetの既定ブロック.md) — 2026-11-03
 - [Copilot Memory、2択が4択に！？ Disabledが記憶許可の表示に変わったんだぜ！](tech/2026-11-03-Copilot-Memoryの既定値と設定分離.md) — 2026-11-03
 - [ChatGPTとCodexの利用枠、12月から共通化なんだぜ！ 10月の噂が公式案内になったんだぜ！](tech/2026-11-03-ChatGPTとCodexの利用枠共通化が公式発表.md) — 2026-11-03
 - [Grok BotにData Botが来たんだぜ！ チームにデータサイエンティストが増えたんだぜ！？](tech/2026-11-03-Grok-BotのData-Bot.md) — 2026-11-03
@@ -13,4 +14,6 @@
 
 ## GitHub Trendingなんだぜ
 
+- [AIが画面のピクセルを見ずにPCを操作するんだぜ！ agent-desktopが注目なんだぜ！](github-trending/2026-11-03-agent-desktopは画面を読んで操作する.md) — 2026-11-03
+- [IntelliJ IDEA風のIDEをRustで作るんだぜ！ OpenIDEAが注目なんだぜ！](github-trending/2026-11-03-OpenIDEAはRust製のIDEなんだぜ.md) — 2026-11-03
 - [Strataが注目なんだぜ！ 巨大LLMを自分のPCで動かすんだぜ！](github-trending/2026-11-02-StrataでローカルLLMを動かす.md) — 2026-11-02

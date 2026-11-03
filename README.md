@@ -9,6 +9,9 @@
 トリビアだけじゃなく、技術の新しい発表やGitHubの注目リポジトリ、Tomiya製プロジェクトのニュースも書いていくんだぜ！
 
 - [ニュース一覧と編集方針](news/README.md)
+- [GitHub Actionsのpull_request_target、12月から既定で止まるんだぜ！](news/2026/11/tech/2026-11-03-pull_request_targetの既定ブロック.md)
+- [AIが画面のピクセルを見ずにPCを操作するんだぜ！ agent-desktopが注目なんだぜ！](news/2026/11/github-trending/2026-11-03-agent-desktopは画面を読んで操作する.md)
+- [IntelliJ IDEA風のIDEをRustで作るんだぜ！ OpenIDEAが注目なんだぜ！](news/2026/11/github-trending/2026-11-03-OpenIDEAはRust製のIDEなんだぜ.md)
 - [Copilot Memory、2択が4択に！？ Disabledが記憶許可の表示に変わったんだぜ！](news/2026/11/tech/2026-11-03-Copilot-Memoryの既定値と設定分離.md)
 - [ChatGPTとCodexの利用枠、12月から共通化なんだぜ！ 10月の噂が公式案内になったんだぜ！](news/2026/11/tech/2026-11-03-ChatGPTとCodexの利用枠共通化が公式発表.md)
 - [Grok BotにData Botが来たんだぜ！ チームにデータサイエンティストが増えたんだぜ！？](news/2026/11/tech/2026-11-03-Grok-BotのData-Bot.md)
