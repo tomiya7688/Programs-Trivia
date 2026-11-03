@@ -9,6 +9,7 @@
 トリビアだけじゃなく、技術の新しい発表やGitHubの注目リポジトリ、Tomiya製プロジェクトのニュースも書いていくんだぜ！
 
 - [ニュース一覧と編集方針](news/README.md)
+- [RSIの入口か！？ AstraがQwenの重み0.016%を書き換えたんだぜ！](news/2026/11/tech/2026-11-03-AstraがQwenの重みを書き換え数学が向上.md)
 - [GitHub Actionsのpull_request_target、12月から既定で止まるんだぜ！](news/2026/11/tech/2026-11-03-pull_request_targetの既定ブロック.md)
 - [画面の「構造」を読んでPCを操作するんだぜ！ agent-desktopが注目なんだぜ！](news/2026/11/github-trending/2026-11-03-agent-desktopは画面を読んで操作する.md)
 - [RustコアでIntelliJ風のIDEに挑むんだぜ！ OpenIDEAが注目なんだぜ！](news/2026/11/github-trending/2026-11-03-OpenIDEAはRust製のIDEなんだぜ.md)
