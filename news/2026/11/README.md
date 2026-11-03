@@ -4,6 +4,10 @@
 
 [ニュース全体](../../README.md) | [2026年のニュース](../README.md)
 
+## Tech Newsなんだぜ
+
+- [Claudeが新しくなったのはモデルじゃなくアプリなんだぜ！ チャットもCoworkも一緒なんだぜ！](tech/2026-11-03-Claudeアプリ刷新とCowork統合.md) — 2026-11-03
+
 ## GitHub Trendingなんだぜ
 
 - [Strataが注目なんだぜ！ 巨大LLMを自分のPCで動かすんだぜ！](github-trending/2026-11-02-StrataでローカルLLMを動かす.md) — 2026-11-02
