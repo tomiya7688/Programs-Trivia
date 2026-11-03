@@ -13,7 +13,7 @@
 
 重要な例外として、**Instantチャットは共通枠を消費しない**んだぜ。開始日の詳細、適用済みかどうかなどは、公式ヘルプと利用状況表示を確認するんだぜ。
 
-**[2026年11月3日の公式発表を整理した続報はこちらなんだぜ](../../../11/tech/2026-11-03-ChatGPTとCodexの利用枠共通化が公式発表.md)**。
+**[2026年11月3日の公式発表を整理した続報はこちらなんだぜ](../../11/tech/2026-11-03-ChatGPTとCodexの利用枠共通化が公式発表.md)**。
 
 公式出典：[Understanding ChatGPT and Codex usage limits](https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits) なんだぜ。
 
