@@ -63,6 +63,7 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 
 ### GitHub Trending — 注目のリポジトリなんだぜ
 
+- [NVIDIAのAuto OntologyがGitHub Trending 1位なんだぜ！ AIにデータの意味を教えるんだぜ！](2026/11/github-trending/2026-11-05-NVIDIAのAuto-Ontologyでデータの意味を共有.md) — 2026-11-05
 - [AIを並列に走らせるならGit worktreeだぜ！ Worktrunkが注目なんだぜ！](2026/11/github-trending/2026-11-05-WorktrunkでGit-worktreeを整理.md) — 2026-11-05
 - [画面の「構造」を読んでPCを操作するんだぜ！ agent-desktopが注目なんだぜ！](2026/11/github-trending/2026-11-03-agent-desktopは画面を読んで操作する.md) — 2026-11-03
 - [RustコアでIntelliJ風のIDEに挑むんだぜ！ OpenIDEAが注目なんだぜ！](2026/11/github-trending/2026-11-03-OpenIDEAはRust製のIDEなんだぜ.md) — 2026-11-03
