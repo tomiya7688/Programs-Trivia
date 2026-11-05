@@ -9,6 +9,7 @@
 トリビアだけじゃなく、技術の新しい発表やGitHubの注目リポジトリ、Tomiya製プロジェクトのニュースも書いていくんだぜ！
 
 - [ニュース一覧と編集方針](news/README.md)
+- [DiscordがElectronを卒業するんだぜ！ RustとGPUIでアプリを作り直すんだぜ！](news/2026/11/tech/2026-11-05-DiscordがRustとGPUIに移行.md)
 - [画面を描いたらAIへの実装指示になるんだぜ！ M3E Canvasが面白いんだぜ！](news/2026/11/github-trending/2026-11-05-M3E-CanvasでUIをプロンプトにする.md)
 - [NVIDIAのAuto OntologyがGitHub Trending 1位なんだぜ！ AIにデータの意味を教えるんだぜ！](news/2026/11/github-trending/2026-11-05-NVIDIAのAuto-Ontologyでデータの意味を共有.md)
 - [ChatGPTの記憶をClaudeに持っていくんだぜ！？ Living Brainが登場したんだぜ！](news/2026/11/tech/2026-11-05-Living-BrainでAIの記憶を共有.md)
