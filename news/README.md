@@ -29,6 +29,7 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 
 ### Tech News — 技術のリリース・発表なんだぜ
 
+- [Manus 2.0はただのモデル更新じゃないんだぜ！ AIエージェントを作り直したんだぜ！](2026/11/tech/2026-11-05-Manus2でAIエージェント基盤を刷新.md) — 2026-11-05
 - [翻訳専門の小さなLLMが巨大モデルに勝つんだぜ！？ PLaMo 3 Translateが公開されたぜ！](2026/11/tech/2026-11-05-PLaMo3-Translate翻訳特化LLMの重み公開.md) — 2026-11-05
 - [DiscordがElectronを卒業するんだぜ！ RustとGPUIでアプリを作り直すんだぜ！](2026/11/tech/2026-11-05-DiscordがRustとGPUIに移行.md) — 2026-11-05
 - [ChatGPTの記憶をClaudeに持っていくんだぜ！？ Living Brainが登場したんだぜ！](2026/11/tech/2026-11-05-Living-BrainでAIの記憶を共有.md) — 2026-11-05
