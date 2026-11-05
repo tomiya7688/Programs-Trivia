@@ -23,6 +23,7 @@
 
 ## GitHub Trendingなんだぜ
 
+- [画面を描いたらAIへの実装指示になるんだぜ！ M3E Canvasが面白いんだぜ！](github-trending/2026-11-05-M3E-CanvasでUIをプロンプトにする.md) — 2026-11-05
 - [NVIDIAのAuto OntologyがGitHub Trending 1位なんだぜ！ AIにデータの意味を教えるんだぜ！](github-trending/2026-11-05-NVIDIAのAuto-Ontologyでデータの意味を共有.md) — 2026-11-05
 - [AIを並列に走らせるならGit worktreeだぜ！ Worktrunkが注目なんだぜ！](github-trending/2026-11-05-WorktrunkでGit-worktreeを整理.md) — 2026-11-05
 - [画面の「構造」を読んでPCを操作するんだぜ！ agent-desktopが注目なんだぜ！](github-trending/2026-11-03-agent-desktopは画面を読んで操作する.md) — 2026-11-03
