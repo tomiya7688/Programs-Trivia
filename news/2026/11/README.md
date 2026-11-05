@@ -6,6 +6,8 @@
 
 ## Tech Newsなんだぜ
 
+- [CodeQL 2.27.4、誤検知を減らしてパックの外も守るんだぜ！](tech/2026-11-05-CodeQL2.27.4の誤検知とパック保護.md) — 2026-11-05
+- [Xcodeの内蔵AIにCopilotが来たんだぜ！ ただしまだベータなんだぜ！](tech/2026-11-05-Xcode内蔵アシスタントでCopilot.md) — 2026-11-05
 - [生きた脳細胞20台でデータセンター！？ シンガポールで試作機が動いたんだぜ！](tech/2026-11-04-脳細胞を使う生体データセンター.md) — 2026-11-04
 - [Gemini 4 Carbonが来たんだぜ！ AIの主戦場はサイバー防御なんだぜ！](tech/2026-11-03-Gemini4-Carbonとサイバー防御.md) — 2026-11-03
 - [Genie 4が喋るんだぜ！？ でも本体は会話AIじゃなく世界なんだぜ！](tech/2026-11-03-Genie4は喋る世界を生成する.md) — 2026-11-03
@@ -20,6 +22,7 @@
 
 ## GitHub Trendingなんだぜ
 
+- [AIを並列に走らせるならGit worktreeだぜ！ Worktrunkが注目なんだぜ！](github-trending/2026-11-05-WorktrunkでGit-worktreeを整理.md) — 2026-11-05
 - [画面の「構造」を読んでPCを操作するんだぜ！ agent-desktopが注目なんだぜ！](github-trending/2026-11-03-agent-desktopは画面を読んで操作する.md) — 2026-11-03
 - [RustコアでIntelliJ風のIDEに挑むんだぜ！ OpenIDEAが注目なんだぜ！](github-trending/2026-11-03-OpenIDEAはRust製のIDEなんだぜ.md) — 2026-11-03
 - [Strataが注目なんだぜ！ 巨大LLMを自分のPCで動かすんだぜ！](github-trending/2026-11-02-StrataでローカルLLMを動かす.md) — 2026-11-02

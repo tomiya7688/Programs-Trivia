@@ -9,6 +9,9 @@
 トリビアだけじゃなく、技術の新しい発表やGitHubの注目リポジトリ、Tomiya製プロジェクトのニュースも書いていくんだぜ！
 
 - [ニュース一覧と編集方針](news/README.md)
+- [CodeQL 2.27.4、誤検知を減らしてパックの外も守るんだぜ！](news/2026/11/tech/2026-11-05-CodeQL2.27.4の誤検知とパック保護.md)
+- [Xcodeの内蔵AIにCopilotが来たんだぜ！ ただしまだベータなんだぜ！](news/2026/11/tech/2026-11-05-Xcode内蔵アシスタントでCopilot.md)
+- [AIを並列に走らせるならGit worktreeだぜ！ Worktrunkが注目なんだぜ！](news/2026/11/github-trending/2026-11-05-WorktrunkでGit-worktreeを整理.md)
 - [生きた脳細胞20台でデータセンター！？ シンガポールで試作機が動いたんだぜ！](news/2026/11/tech/2026-11-04-脳細胞を使う生体データセンター.md)
 - [Gemini 4 Carbonが来たんだぜ！ AIの主戦場はサイバー防御なんだぜ！](news/2026/11/tech/2026-11-03-Gemini4-Carbonとサイバー防御.md)
 - [Genie 4が喋るんだぜ！？ でも本体は会話AIじゃなく世界なんだぜ！](news/2026/11/tech/2026-11-03-Genie4は喋る世界を生成する.md)
