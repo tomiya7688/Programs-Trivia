@@ -6,6 +6,7 @@
 
 ## Tech Newsなんだぜ
 
+- [翻訳専門の小さなLLMが巨大モデルに勝つんだぜ！？ PLaMo 3 Translateが公開されたぜ！](tech/2026-11-05-PLaMo3-Translate翻訳特化LLMの重み公開.md) — 2026-11-05
 - [DiscordがElectronを卒業するんだぜ！ RustとGPUIでアプリを作り直すんだぜ！](tech/2026-11-05-DiscordがRustとGPUIに移行.md) — 2026-11-05
 - [ChatGPTの記憶をClaudeに持っていくんだぜ！？ Living Brainが登場したんだぜ！](tech/2026-11-05-Living-BrainでAIの記憶を共有.md) — 2026-11-05
 - [CodeQL 2.27.4、誤検知を減らしてパックの外も守るんだぜ！](tech/2026-11-05-CodeQL2.27.4の誤検知とパック保護.md) — 2026-11-05
