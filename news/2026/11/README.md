@@ -6,6 +6,8 @@
 
 ## Tech Newsなんだぜ
 
+- [Claude Fable 5.2がCopilotに来たんだぜ！ でもデータ保持に注意なんだぜ！](tech/2026-11-12-Claude-Fable5.2がCopilotで提供開始.md) — 2026-11-12
+- [GitHub Actionsのログに秘密が漏れたら検知するんだぜ！ ただしプレビューなんだぜ！](tech/2026-11-12-Actionsログの秘密情報検知がプレビュー開始.md) — 2026-11-12
 - [Manus 2.0はただのモデル更新じゃないんだぜ！ AIエージェントを作り直したんだぜ！](tech/2026-11-05-Manus2でAIエージェント基盤を刷新.md) — 2026-11-05
 - [翻訳専門の小さなLLMが巨大モデルに勝つんだぜ！？ PLaMo 3 Translateが公開されたぜ！](tech/2026-11-05-PLaMo3-Translate翻訳特化LLMの重み公開.md) — 2026-11-05
 - [DiscordがElectronを卒業するんだぜ！ RustとGPUIでアプリを作り直すんだぜ！](tech/2026-11-05-DiscordがRustとGPUIに移行.md) — 2026-11-05
@@ -26,6 +28,7 @@
 
 ## GitHub Trendingなんだぜ
 
+- [AIに古いWebを書かせないんだぜ！ Modern Web Guidance 1.0が正式版だぜ！](github-trending/2026-11-12-Modern-Web-GuidanceでAIの古いWeb実装を改善.md) — 2026-11-12
 - [画面を描いたらAIへの実装指示になるんだぜ！ M3E Canvasが面白いんだぜ！](github-trending/2026-11-05-M3E-CanvasでUIをプロンプトにする.md) — 2026-11-05
 - [NVIDIAのAuto OntologyがGitHub Trending 1位なんだぜ！ AIにデータの意味を教えるんだぜ！](github-trending/2026-11-05-NVIDIAのAuto-Ontologyでデータの意味を共有.md) — 2026-11-05
 - [AIを並列に走らせるならGit worktreeだぜ！ Worktrunkが注目なんだぜ！](github-trending/2026-11-05-WorktrunkでGit-worktreeを整理.md) — 2026-11-05
