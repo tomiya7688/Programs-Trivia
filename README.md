@@ -9,6 +9,9 @@
 トリビアだけじゃなく、技術の新しい発表やGitHubの注目リポジトリ、Tomiya製プロジェクトのニュースも書いていくんだぜ！
 
 - [ニュース一覧と編集方針](news/README.md)
+- [Rust 1.100でnever型が10年越しに安定化、依存更新にも待機期間なんだぜ！](news/2026/11/tech/2026-11-19-Rust1.100でnever型と依存更新の待機期間.md)
+- [Copilot Fusion MaxがTerminal-Benchで71.2%だぜ！？ モデル選択とコストの裏側なんだぜ！](news/2026/11/tech/2026-11-19-Copilot-Fusionのモデル追加とベンチマーク.md)
+- [AIスキルにもCIが必要なんだぜ！ NVIDIA SkillEvaluator 1.0.1がTrendingに来たぜ！](news/2026/11/github-trending/2026-11-19-NVIDIAのSkillEvaluatorでAIスキルを検証.md)
 - [Claude Fable 5.2がCopilotに来たんだぜ！ でもデータ保持に注意なんだぜ！](news/2026/11/tech/2026-11-12-Claude-Fable5.2がCopilotで提供開始.md)
 - [GitHub Actionsのログに秘密が漏れたら検知するんだぜ！ ただしプレビューなんだぜ！](news/2026/11/tech/2026-11-12-Actionsログの秘密情報検知がプレビュー開始.md)
 - [AIに古いWebを書かせないんだぜ！ Modern Web Guidance 1.0が正式版だぜ！](news/2026/11/github-trending/2026-11-12-Modern-Web-GuidanceでAIの古いWeb実装を改善.md)
