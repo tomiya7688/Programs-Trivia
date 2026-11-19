@@ -6,6 +6,8 @@
 
 ## Tech Newsなんだぜ
 
+- [Rust 1.100でnever型が10年越しに安定化、依存更新にも待機期間なんだぜ！](tech/2026-11-19-Rust1.100でnever型と依存更新の待機期間.md) — 2026-11-19
+- [Copilot Fusion MaxがTerminal-Benchで71.2%だぜ！？ モデル選択とコストの裏側なんだぜ！](tech/2026-11-19-Copilot-Fusionのモデル追加とベンチマーク.md) — 2026-11-19
 - [Claude Fable 5.2がCopilotに来たんだぜ！ でもデータ保持に注意なんだぜ！](tech/2026-11-12-Claude-Fable5.2がCopilotで提供開始.md) — 2026-11-12
 - [GitHub Actionsのログに秘密が漏れたら検知するんだぜ！ ただしプレビューなんだぜ！](tech/2026-11-12-Actionsログの秘密情報検知がプレビュー開始.md) — 2026-11-12
 - [Manus 2.0はただのモデル更新じゃないんだぜ！ AIエージェントを作り直したんだぜ！](tech/2026-11-05-Manus2でAIエージェント基盤を刷新.md) — 2026-11-05
@@ -28,6 +30,7 @@
 
 ## GitHub Trendingなんだぜ
 
+- [AIスキルにもCIが必要なんだぜ！ NVIDIA SkillEvaluator 1.0.1がTrendingに来たぜ！](github-trending/2026-11-19-NVIDIAのSkillEvaluatorでAIスキルを検証.md) — 2026-11-19
 - [AIに古いWebを書かせないんだぜ！ Modern Web Guidance 1.0が正式版だぜ！](github-trending/2026-11-12-Modern-Web-GuidanceでAIの古いWeb実装を改善.md) — 2026-11-12
 - [画面を描いたらAIへの実装指示になるんだぜ！ M3E Canvasが面白いんだぜ！](github-trending/2026-11-05-M3E-CanvasでUIをプロンプトにする.md) — 2026-11-05
 - [NVIDIAのAuto OntologyがGitHub Trending 1位なんだぜ！ AIにデータの意味を教えるんだぜ！](github-trending/2026-11-05-NVIDIAのAuto-Ontologyでデータの意味を共有.md) — 2026-11-05
