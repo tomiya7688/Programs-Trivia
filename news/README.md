@@ -29,8 +29,8 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 
 ### Tech News — 技術のリリース・発表なんだぜ
 
-- [GitHub Issuesに7つの状態が来たんだぜ！ MCP対応のRepository Boardsもプレビューだぜ！](2026/11/tech/2026-11-23-GitHub-Issue-StatusesとRepository-Boards.md) — 2026-11-23
-- [GHES 3.23 RC、閉域網のCopilot CLIとAI秘密検出が来るんだぜ！](2026/11/tech/2026-11-20-GHES3.23RCで閉域網AI秘密検出.md) — 2026-11-20
+- [GitHub Issuesに7つの状態が来たんだぜ！ MCP対応のRepository Boardsもプレビューだぜ！](2026/11/tech/2026-11-23-GitHub-Issue-StatusesとRepository-Boards.md) — 2026-11-26
+- [GHES 3.23 RC、閉域網のCopilot CLIとAI秘密検出が来るんだぜ！](2026/11/tech/2026-11-20-GHES3.23RCで閉域網AI秘密検出.md) — 2026-11-26
 - [Rust 1.100でnever型が10年越しに安定化、依存更新にも待機期間なんだぜ！](2026/11/tech/2026-11-19-Rust1.100でnever型と依存更新の待機期間.md) — 2026-11-19
 - [Copilot Fusion MaxがTerminal-Benchで71.2%だぜ！？ モデル選択とコストの裏側なんだぜ！](2026/11/tech/2026-11-19-Copilot-Fusionのモデル追加とベンチマーク.md) — 2026-11-19
 - [Claude Fable 5.2がCopilotに来たんだぜ！ でもデータ保持に注意なんだぜ！](2026/11/tech/2026-11-12-Claude-Fable5.2がCopilotで提供開始.md) — 2026-11-12
@@ -72,7 +72,7 @@ Programs-Triviaはトリビアだけじゃないんだぜ。
 
 ### GitHub Trending — 注目のリポジトリなんだぜ
 
-- [AIに直近30日のネットを調べさせるんだぜ！ last30days-skill v4.6.0がTrending入りだぜ！](2026/11/github-trending/2026-11-22-last30days-skill-v4.6.0.md) — 2026-11-22
+- [AIに直近30日のネットを調べさせるんだぜ！ last30days-skill v4.6.0がTrending入りだぜ！](2026/11/github-trending/2026-11-22-last30days-skill-v4.6.0.md) — 2026-11-26
 - [AIスキルにもCIが必要なんだぜ！ NVIDIA SkillEvaluator 1.0.1がTrendingに来たぜ！](2026/11/github-trending/2026-11-19-NVIDIAのSkillEvaluatorでAIスキルを検証.md) — 2026-11-19
 - [AIに古いWebを書かせないんだぜ！ Modern Web Guidance 1.0が正式版だぜ！](2026/11/github-trending/2026-11-12-Modern-Web-GuidanceでAIの古いWeb実装を改善.md) — 2026-11-12
 - [画面を描いたらAIへの実装指示になるんだぜ！ M3E Canvasが面白いんだぜ！](2026/11/github-trending/2026-11-05-M3E-CanvasでUIをプロンプトにする.md) — 2026-11-05
