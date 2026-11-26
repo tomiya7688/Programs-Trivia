@@ -7,7 +7,7 @@
 ## Tech Newsなんだぜ
 
 - [GitHub Issuesに7つの状態が来たんだぜ！ MCP対応のRepository Boardsもプレビューだぜ！](tech/2026-11-23-GitHub-Issue-StatusesとRepository-Boards.md) — 2026-11-23
-- [GitHub Enterprise Server 3.23 RC、閉域網でもAIで秘密を探すんだぜ！](tech/2026-11-20-GHES3.23RCで閉域網AI秘密検出.md) — 2026-11-20
+- [GHES 3.23 RC、閉域網のCopilot CLIとAI秘密検出が来るんだぜ！](tech/2026-11-20-GHES3.23RCで閉域網AI秘密検出.md) — 2026-11-20
 - [Rust 1.100でnever型が10年越しに安定化、依存更新にも待機期間なんだぜ！](tech/2026-11-19-Rust1.100でnever型と依存更新の待機期間.md) — 2026-11-19
 - [Copilot Fusion MaxがTerminal-Benchで71.2%だぜ！？ モデル選択とコストの裏側なんだぜ！](tech/2026-11-19-Copilot-Fusionのモデル追加とベンチマーク.md) — 2026-11-19
 - [Claude Fable 5.2がCopilotに来たんだぜ！ でもデータ保持に注意なんだぜ！](tech/2026-11-12-Claude-Fable5.2がCopilotで提供開始.md) — 2026-11-12
