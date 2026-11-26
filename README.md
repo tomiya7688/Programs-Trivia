@@ -9,6 +9,9 @@
 トリビアだけじゃなく、技術の新しい発表やGitHubの注目リポジトリ、Tomiya製プロジェクトのニュースも書いていくんだぜ！
 
 - [ニュース一覧と編集方針](news/README.md)
+- [GitHub Issuesに7つの状態が来たんだぜ！ MCP対応のRepository Boardsもプレビューだぜ！](news/2026/11/tech/2026-11-23-GitHub-Issue-StatusesとRepository-Boards.md)
+- [AIに直近30日のネットを調べさせるんだぜ！ last30days-skill v4.6.0がTrending入りだぜ！](news/2026/11/github-trending/2026-11-22-last30days-skill-v4.6.0.md)
+- [GHES 3.23 RC、閉域網のCopilot CLIとAI秘密検出が来るんだぜ！](news/2026/11/tech/2026-11-20-GHES3.23RCで閉域網AI秘密検出.md)
 - [Rust 1.100でnever型が10年越しに安定化、依存更新にも待機期間なんだぜ！](news/2026/11/tech/2026-11-19-Rust1.100でnever型と依存更新の待機期間.md)
 - [Copilot Fusion MaxがTerminal-Benchで71.2%だぜ！？ モデル選択とコストの裏側なんだぜ！](news/2026/11/tech/2026-11-19-Copilot-Fusionのモデル追加とベンチマーク.md)
 - [AIスキルにもCIが必要なんだぜ！ NVIDIA SkillEvaluator 1.0.1がTrendingに来たぜ！](news/2026/11/github-trending/2026-11-19-NVIDIAのSkillEvaluatorでAIスキルを検証.md)
