@@ -12,5 +12,11 @@
 - **自動化・テンプレ化**: 繰り返す作業はスクリプト/CIにし、AGENTS.md は必要資料へのリンクだけにする。
 - **個人情報**: メールアドレス・氏名・認証情報を、URL・コミット・PR・Issue・外部サービスへ含めない。
 - **使用量**: 検索対象と出力を絞り、同じファイルの再読込・巨大出力の貼り込みをしない。文脈が約150kを超えたら、目的・現状・証拠・未完了を短くまとめて新セッションへ引き継ぐ。
-- **除外（クラウドでは適用しない）**: Eドライブのworktree規則、共通キュー、学習キュー、Codex経由のWeb調査、複数AIレビューの起動手順（これらはローカルの `E:/projects` 環境の仕組み）。
+- **レビュー（クラウド）**: PR前に skill `cloud-review`（組み込み `/code-review` → agent `code-reviewer` → PR後のCodeRabbit結果確認）を実行し、証跡表をPRコメントに書く。Copilotへの依頼は停止方針。ローカルの複数AIレビュー起動口は使わない。
+- **探索（クラウド）**: CodeGraph が無い環境では rg（Grep/Glob）と Explore で探索し、必要な範囲だけ Read する。
+- **重い調査**: 広範囲の探索・長いログや差分の読み取りはサブエージェント（`search`・`grep`・`docs`）に任せ、結論だけ受け取る。
+- **学習・重い推論**: GPUを最大限使う。メモリ不足はまずオフロード（fp16/bf16・勾配累積・勾配チェックポイント・CPU/NVMeオフロード）で解決し、CPU実行はGPUが使えない時のフォールバックに限る。
+- **共有キュー**: クラウドに共有キューは無い。同時に複数の重い学習・推論を起動せず、1件ずつ順に実行する。
+- **作業開始・完了**: skill `start-finish-checklist`（設計書・リンク・整形・テスト・worktree・個人情報の確認）を使う。整形は `.claude/cloud-rules/FORMAT_RULES.md`、検査は `python3 tools/check_docs.py` と `python3 tools/check_links.py`、文脈が約150kを超えたら `.claude/cloud-rules/HANDOFF.md`。
+- **除外（クラウドでは適用しない）**: Eドライブのworktree規則、共通キュー、学習キュー、Codex経由のWeb調査、複数AIレビューの起動手順（これらはローカル環境の仕組み）。
 <!-- /tomiya-common-rules -->
